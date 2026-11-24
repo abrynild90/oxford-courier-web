@@ -1,0 +1,575 @@
+{
+  "version": "0.7.2",
+  "url": "https://abrynild90.github.io/oxford-courier-web/v0.7.2/",
+  "viewport": {
+    "width": 1280,
+    "height": 800
+  },
+  "views": [
+    {
+      "id": "lyric-far",
+      "tile": "-1_0",
+      "focus": [
+        -132,
+        76
+      ],
+      "eye": [
+        -62,
+        197,
+        8
+      ],
+      "look": [
+        -130.9,
+        157.4,
+        75.6
+      ],
+      "fov": 27,
+      "band": [
+        90,
+        110
+      ],
+      "target": "Van Buren frontage and marquee",
+      "elevated": true,
+      "eyeWorld": [
+        -62,
+        197,
+        8
+      ],
+      "targetWorld": [
+        -130.9,
+        157.4,
+        75.6
+      ],
+      "dusk": false,
+      "groundBelowEye": 154.37,
+      "cameraRestored": true,
+      "distanceM": 104.33182640019295,
+      "file": "lyric-far-day.jpg"
+    },
+    {
+      "id": "lyric-far",
+      "tile": "-1_0",
+      "focus": [
+        -132,
+        76
+      ],
+      "eye": [
+        -62,
+        197,
+        8
+      ],
+      "look": [
+        -130.9,
+        157.4,
+        75.6
+      ],
+      "fov": 27,
+      "band": [
+        90,
+        110
+      ],
+      "target": "Van Buren frontage and marquee",
+      "elevated": true,
+      "eyeWorld": [
+        -62,
+        197,
+        8
+      ],
+      "targetWorld": [
+        -130.9,
+        157.4,
+        75.6
+      ],
+      "dusk": true,
+      "groundBelowEye": 154.37,
+      "cameraRestored": true,
+      "distanceM": 104.33182640019295,
+      "file": "lyric-far-dusk.jpg"
+    },
+    {
+      "id": "lyric-street",
+      "tile": "-1_0",
+      "focus": [
+        -132,
+        76
+      ],
+      "eye": [
+        -114.2,
+        154.804,
+        62.8
+      ],
+      "look": [
+        -129.3,
+        156.9,
+        76.7
+      ],
+      "fov": 53,
+      "band": [
+        16,
+        24
+      ],
+      "target": "Corner approach to the marquee and blade",
+      "elevated": false,
+      "eyeWorld": [
+        -114.2,
+        154.804,
+        62.8
+      ],
+      "targetWorld": [
+        -129.3,
+        156.9,
+        76.7
+      ],
+      "dusk": false,
+      "groundBelowEye": 152.60375,
+      "cameraRestored": true,
+      "distanceM": 20.63039543973892,
+      "file": "lyric-street-day.jpg"
+    },
+    {
+      "id": "lyric-street",
+      "tile": "-1_0",
+      "focus": [
+        -132,
+        76
+      ],
+      "eye": [
+        -114.2,
+        154.804,
+        62.8
+      ],
+      "look": [
+        -129.3,
+        156.9,
+        76.7
+      ],
+      "fov": 53,
+      "band": [
+        16,
+        24
+      ],
+      "target": "Corner approach to the marquee and blade",
+      "elevated": false,
+      "eyeWorld": [
+        -114.2,
+        154.804,
+        62.8
+      ],
+      "targetWorld": [
+        -129.3,
+        156.9,
+        76.7
+      ],
+      "dusk": true,
+      "groundBelowEye": 152.60375,
+      "cameraRestored": true,
+      "distanceM": 20.63039543973892,
+      "file": "lyric-street-dusk.jpg"
+    },
+    {
+      "id": "lyric-close",
+      "tile": "-1_0",
+      "focus": [
+        -132,
+        76
+      ],
+      "eye": [
+        -130.4,
+        155.02,
+        72.1
+      ],
+      "look": [
+        -131.5,
+        156.1,
+        74.16
+      ],
+      "fov": 66,
+      "band": [
+        1,
+        3
+      ],
+      "target": "Marquee bulbs and arched entrance jamb",
+      "elevated": false,
+      "eyeWorld": [
+        -130.4,
+        155.02,
+        72.1
+      ],
+      "targetWorld": [
+        -131.5,
+        156.1,
+        74.16
+      ],
+      "dusk": false,
+      "groundBelowEye": 152.3425,
+      "cameraRestored": true,
+      "distanceM": 2.5729360660537144,
+      "file": "lyric-close-day.jpg"
+    },
+    {
+      "id": "lyric-close",
+      "tile": "-1_0",
+      "focus": [
+        -132,
+        76
+      ],
+      "eye": [
+        -130.4,
+        155.02,
+        72.1
+      ],
+      "look": [
+        -131.5,
+        156.1,
+        74.16
+      ],
+      "fov": 66,
+      "band": [
+        1,
+        3
+      ],
+      "target": "Marquee bulbs and arched entrance jamb",
+      "elevated": false,
+      "eyeWorld": [
+        -130.4,
+        155.02,
+        72.1
+      ],
+      "targetWorld": [
+        -131.5,
+        156.1,
+        74.16
+      ],
+      "dusk": true,
+      "groundBelowEye": 152.3425,
+      "cameraRestored": true,
+      "distanceM": 2.5729360660537144,
+      "file": "lyric-close-dusk.jpg"
+    },
+    {
+      "id": "duff-far",
+      "tile": "-3_0",
+      "focus": [
+        -1420,
+        298
+      ],
+      "eye": [
+        -1317,
+        174,
+        384
+      ],
+      "look": [
+        -1390,
+        152,
+        308
+      ],
+      "fov": 35,
+      "band": [
+        90,
+        110
+      ],
+      "target": "South glazing and southeast return",
+      "elevated": true,
+      "eyeWorld": [
+        -1317,
+        174,
+        384
+      ],
+      "targetWorld": [
+        -1390,
+        152,
+        308
+      ],
+      "dusk": false,
+      "groundBelowEye": 144.2275,
+      "cameraRestored": true,
+      "distanceM": 107.6522178127325,
+      "file": "duff-far-day.jpg"
+    },
+    {
+      "id": "duff-far",
+      "tile": "-3_0",
+      "focus": [
+        -1420,
+        298
+      ],
+      "eye": [
+        -1317,
+        174,
+        384
+      ],
+      "look": [
+        -1390,
+        152,
+        308
+      ],
+      "fov": 35,
+      "band": [
+        90,
+        110
+      ],
+      "target": "South glazing and southeast return",
+      "elevated": true,
+      "eyeWorld": [
+        -1317,
+        174,
+        384
+      ],
+      "targetWorld": [
+        -1390,
+        152,
+        308
+      ],
+      "dusk": true,
+      "groundBelowEye": 144.2275,
+      "cameraRestored": true,
+      "distanceM": 107.6522178127325,
+      "file": "duff-far-dusk.jpg"
+    },
+    {
+      "id": "duff-street",
+      "tile": "-3_0",
+      "focus": [
+        -1420,
+        298
+      ],
+      "eye": [
+        -1363,
+        148,
+        295
+      ],
+      "look": [
+        -1379,
+        152.5,
+        282
+      ],
+      "fov": 58,
+      "band": [
+        16,
+        24
+      ],
+      "target": "East court and glazed return with terracotta shades",
+      "elevated": false,
+      "eyeWorld": [
+        -1363,
+        148,
+        295
+      ],
+      "targetWorld": [
+        -1379,
+        152.5,
+        282
+      ],
+      "dusk": false,
+      "groundBelowEye": 144.50125,
+      "cameraRestored": true,
+      "distanceM": 21.10094784600919,
+      "file": "duff-street-day.jpg"
+    },
+    {
+      "id": "duff-street",
+      "tile": "-3_0",
+      "focus": [
+        -1420,
+        298
+      ],
+      "eye": [
+        -1363,
+        148,
+        295
+      ],
+      "look": [
+        -1379,
+        152.5,
+        282
+      ],
+      "fov": 58,
+      "band": [
+        16,
+        24
+      ],
+      "target": "East court and glazed return with terracotta shades",
+      "elevated": false,
+      "eyeWorld": [
+        -1363,
+        148,
+        295
+      ],
+      "targetWorld": [
+        -1379,
+        152.5,
+        282
+      ],
+      "dusk": true,
+      "groundBelowEye": 144.50125,
+      "cameraRestored": true,
+      "distanceM": 21.10094784600919,
+      "file": "duff-street-dusk.jpg"
+    },
+    {
+      "id": "duff-close",
+      "tile": "-3_0",
+      "focus": [
+        -1420,
+        298
+      ],
+      "eye": [
+        -1368.1,
+        146.3,
+        275.4
+      ],
+      "look": [
+        -1370.3,
+        145.9,
+        274.15
+      ],
+      "fov": 71,
+      "band": [
+        1,
+        3
+      ],
+      "target": "Reflective entry doors, handle and stone treads",
+      "elevated": false,
+      "eyeWorld": [
+        -1368.1,
+        146.3,
+        275.4
+      ],
+      "targetWorld": [
+        -1370.3,
+        145.9,
+        274.15
+      ],
+      "dusk": false,
+      "groundBelowEye": 144.72375,
+      "cameraRestored": true,
+      "distanceM": 2.56173769148994,
+      "file": "duff-close-day.jpg"
+    },
+    {
+      "id": "duff-close",
+      "tile": "-3_0",
+      "focus": [
+        -1420,
+        298
+      ],
+      "eye": [
+        -1368.1,
+        146.3,
+        275.4
+      ],
+      "look": [
+        -1370.3,
+        145.9,
+        274.15
+      ],
+      "fov": 71,
+      "band": [
+        1,
+        3
+      ],
+      "target": "Reflective entry doors, handle and stone treads",
+      "elevated": false,
+      "eyeWorld": [
+        -1368.1,
+        146.3,
+        275.4
+      ],
+      "targetWorld": [
+        -1370.3,
+        145.9,
+        274.15
+      ],
+      "dusk": true,
+      "groundBelowEye": 144.72375,
+      "cameraRestored": true,
+      "distanceM": 2.56173769148994,
+      "file": "duff-close-dusk.jpg"
+    }
+  ],
+  "errors": [],
+  "assets": [
+    [
+      "https://abrynild90.github.io/oxford-courier-web/v0.7.2/data/blender/courthouse.glb",
+      200
+    ],
+    [
+      "https://abrynild90.github.io/oxford-courier-web/v0.7.2/data/blender/square-books.glb",
+      200
+    ],
+    [
+      "https://abrynild90.github.io/oxford-courier-web/v0.7.2/data/stream/courier.glb",
+      200
+    ],
+    [
+      "https://abrynild90.github.io/oxford-courier-web/v0.7.2/data/blender/neilsons.glb",
+      200
+    ],
+    [
+      "https://abrynild90.github.io/oxford-courier-web/v0.7.2/data/blender/streets/-1_0.glb",
+      200
+    ],
+    [
+      "https://abrynild90.github.io/oxford-courier-web/v0.7.2/data/blender/precinct-additions/velvet-ditch-west-roof-arm.glb",
+      200
+    ],
+    [
+      "https://abrynild90.github.io/oxford-courier-web/v0.7.2/data/blender/precinct-additions/velvet-ditch-east-roof-arm.glb",
+      200
+    ],
+    [
+      "https://abrynild90.github.io/oxford-courier-web/v0.7.2/data/blender/streets/-1_-1.glb",
+      200
+    ],
+    [
+      "https://abrynild90.github.io/oxford-courier-web/v0.7.2/data/blender/schools/oxford-intermediate.glb",
+      200
+    ],
+    [
+      "https://abrynild90.github.io/oxford-courier-web/v0.7.2/data/blender/streets/0_0.glb",
+      200
+    ],
+    [
+      "https://abrynild90.github.io/oxford-courier-web/v0.7.2/data/blender/streets/0_-1.glb",
+      200
+    ],
+    [
+      "https://abrynild90.github.io/oxford-courier-web/v0.7.2/data/blender/grove-pavilion.glb",
+      200
+    ],
+    [
+      "https://abrynild90.github.io/oxford-courier-web/v0.7.2/data/blender/stadium.glb",
+      200
+    ],
+    [
+      "https://abrynild90.github.io/oxford-courier-web/v0.7.2/data/blender/barnard.glb",
+      200
+    ],
+    [
+      "https://abrynild90.github.io/oxford-courier-web/v0.7.2/data/blender/lyceum.glb",
+      200
+    ],
+    [
+      "https://abrynild90.github.io/oxford-courier-web/v0.7.2/data/blender/ventress.glb",
+      200
+    ],
+    [
+      "https://abrynild90.github.io/oxford-courier-web/v0.7.2/data/blender/streets/-3_0.glb",
+      200
+    ],
+    [
+      "https://abrynild90.github.io/oxford-courier-web/v0.7.2/data/blender/streets/-4_0.glb",
+      200
+    ],
+    [
+      "https://abrynild90.github.io/oxford-courier-web/v0.7.2/data/blender/streets/-3_1.glb",
+      200
+    ],
+    [
+      "https://abrynild90.github.io/oxford-courier-web/v0.7.2/data/blender/streets/-4_1.glb",
+      200
+    ]
+  ],
+  "gameSHA256": "eed5dc11debc86b2fe7165f9d145f8c1353feec0b1f527c8ff871b07f238183b",
+  "browser": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/158.0.0.0 Safari/537.36"
+}

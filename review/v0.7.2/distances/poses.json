@@ -1,0 +1,8 @@
+[
+ {"id":"lyric-far","tile":"-1_0","focus":[-132,76],"eye":[-62,197,8],"look":[-130.9,157.4,75.6],"fov":27,"band":[90,110],"target":"Van Buren frontage and marquee","elevated":true},
+ {"id":"lyric-street","tile":"-1_0","focus":[-132,76],"eye":[-114.2,154.804,62.8],"look":[-129.3,156.9,76.7],"fov":53,"band":[16,24],"target":"Corner approach to the marquee and blade","elevated":false},
+ {"id":"lyric-close","tile":"-1_0","focus":[-132,76],"eye":[-130.4,155.020,72.1],"look":[-131.5,156.10,74.16],"fov":66,"band":[1,3],"target":"Marquee bulbs and arched entrance jamb","elevated":false},
+ {"id":"duff-far","tile":"-3_0","focus":[-1420,298],"eye":[-1317,174,384],"look":[-1390,152,308],"fov":35,"band":[90,110],"target":"South glazing and southeast return","elevated":true},
+ {"id":"duff-street","tile":"-3_0","focus":[-1420,298],"eye":[-1363,148,295],"look":[-1379,152.5,282],"fov":58,"band":[16,24],"target":"East court and glazed return with terracotta shades","elevated":false},
+ {"id":"duff-close","tile":"-3_0","focus":[-1420,298],"eye":[-1368.1,146.3,275.4],"look":[-1370.30,145.9,274.15],"fov":71,"band":[1,3],"target":"Reflective entry doors, handle and stone treads","elevated":false}
+]
