@@ -1,0 +1,3444 @@
+{
+  "url": "http://127.0.0.1:8861/",
+  "viewport": [
+    1280,
+    768
+  ],
+  "light": "Fixed default day, shadows refreshed; capture uses a clone of the player camera.",
+  "source": {
+    "roofYear": 2025,
+    "image": "https://gis.mississippi.edu/server/rest/services/Raster/MS_NAIP_2025/MapServer/46",
+    "sourceRoofRegistrations": 1172,
+    "housingTraces": 91,
+    "housingAddedByTile": {
+      "-2_9": 12,
+      "-1_9": 50,
+      "-2_10": 3,
+      "-1_10": 17,
+      "0_13": 9
+    }
+  },
+  "files": [
+    {
+      "tile": "-10_0",
+      "sha": "65faef93fedfffdf3299e1237fce2156ffefabd6d1f6ee54d5fd9c8d1cdebd02",
+      "roofAtlas": {
+        "bytes": 24699,
+        "sha256": "5488a1e6a5bb0f0523bbd4d8b61d91f1ccda1fd4e65381a06f6830b5c1a45671",
+        "primitiveCount": 1
+      }
+    },
+    {
+      "tile": "-14_1",
+      "sha": "2e7bb7ce234633e61a50c406b820995609a24b68d02b6c1c2f2e6adeefa6fd52",
+      "roofAtlas": {
+        "bytes": 3230,
+        "sha256": "934d3f7422959f3463e8fd555058a30636eb8239144f0aca771e60f754654caf",
+        "primitiveCount": 1
+      }
+    },
+    {
+      "tile": "-15_1",
+      "sha": "5ccd8623221aad4cac1b847bf6b02c46216720e483a0769851e0285b689be749"
+    },
+    {
+      "tile": "-1_-1",
+      "sha": "8ae36cee51abe9d36da937a100ba4d72f812d5e809b724e33ce16a0ae147cca9",
+      "roofAtlas": {
+        "bytes": 74802,
+        "sha256": "bfdccae41c728c19206a5c15a69c9826e9d0a457bf7dd71c61aa81e09e772082",
+        "primitiveCount": 1
+      }
+    },
+    {
+      "tile": "-1_0",
+      "sha": "d51d425238047fec7200607457e4a2ef9e256db7edf6f126f68ed0d4bdf0dfed",
+      "roofAtlas": {
+        "bytes": 111516,
+        "sha256": "3d33320e7893c109d44c43d4a675ba8715b496639582d90ca45a7d707f6472a1",
+        "primitiveCount": 1
+      }
+    },
+    {
+      "tile": "-1_1",
+      "sha": "360f3a0304b0002d3611b93da03a9c8a0d853c7643a5d6bee3d43090657f7d58",
+      "roofAtlas": {
+        "bytes": 33260,
+        "sha256": "4e159a40e2a4fce60e0421cfc64c0c754a6d0f0fefba931aa9e6d76fc34a41b6",
+        "primitiveCount": 1
+      }
+    },
+    {
+      "tile": "-1_10",
+      "sha": "aebe7b167f0cd24b77882eaa7bfa21706ea140f99157b0eeaff9b9b898f6498d",
+      "roofAtlas": {
+        "bytes": 51561,
+        "sha256": "5b6217fb219e1c5efb0b5520b1947fcb52c9cd0cc844d3ffbde181867ef11a2d",
+        "primitiveCount": 1
+      }
+    },
+    {
+      "tile": "-1_11",
+      "sha": "9b48ba2d26449435919e0c50d37c9f819920b20de8375a4958e3d91a03135301",
+      "roofAtlas": {
+        "bytes": 13720,
+        "sha256": "25eb819249f4e4e766090112fbe06dfe855edd16b45965b5257793033806da75",
+        "primitiveCount": 1
+      }
+    },
+    {
+      "tile": "-1_12",
+      "sha": "1872cd7de1287301c9eda91722e8541e1f97909981ecb26cc107a16f5b915077",
+      "roofAtlas": {
+        "bytes": 5171,
+        "sha256": "fec45e7f0edb30b23663c5a5f709e1aaab67434bed0df35776e6c981734ff4da",
+        "primitiveCount": 1
+      }
+    },
+    {
+      "tile": "-1_13",
+      "sha": "f75d3536dd38d0f2f127a9677ff28ee5ce1249f6dd52e5553a8539c741931312",
+      "roofAtlas": {
+        "bytes": 7274,
+        "sha256": "30f62f3e493de428422a8ffb27c195a8219ca4d35ad3b6f16f95b20e0b3387c2",
+        "primitiveCount": 1
+      }
+    },
+    {
+      "tile": "-1_15",
+      "sha": "a1701baf313479288c344f1a22abca987e13eda8fdcf563e86baf70d15d1bcad",
+      "roofAtlas": {
+        "bytes": 3364,
+        "sha256": "9fa90a47aefff51c75052191ff177a3e536818acf3f01e8af897f01429c3e85d",
+        "primitiveCount": 1
+      }
+    },
+    {
+      "tile": "-1_16",
+      "sha": "b34508822ab3a3b53577d4355dec55f7e770cd8286f4e601b02324d9061588a3",
+      "roofAtlas": {
+        "bytes": 6059,
+        "sha256": "37573504590e9056f402f063204baccc174da680d6e8d8910e1778f8220cea91",
+        "primitiveCount": 1
+      }
+    },
+    {
+      "tile": "-1_17",
+      "sha": "e57c0745c45a1a062e59e7ecac5e3126b0a26cd820b699a1c179ef318296473a",
+      "roofAtlas": {
+        "bytes": 2448,
+        "sha256": "cf25e2844950b3f7fc8a2a3be3b4b94cd7807b2a76c06fbca0f753df5553dce7",
+        "primitiveCount": 1
+      }
+    },
+    {
+      "tile": "-1_2",
+      "sha": "575e4257cca80aee263cec9da1db600e90d52451af0164ece639a218138ca0c7",
+      "roofAtlas": {
+        "bytes": 18832,
+        "sha256": "80e9a5ee31024d6e674223ecd85bc5950cffd675eaaaa0279138d684157d4183",
+        "primitiveCount": 1
+      }
+    },
+    {
+      "tile": "-1_3",
+      "sha": "a704c2416a8c3e999b7d7d9d3a5dc92ea08350cbaa46a0d18bf5ae56ab09da2a",
+      "roofAtlas": {
+        "bytes": 53561,
+        "sha256": "bef53025f58e2800cae14a99851e7c5382bab94333878526b55932f7afbc6b21",
+        "primitiveCount": 1
+      }
+    },
+    {
+      "tile": "-1_4",
+      "sha": "52fc87205d42afa9743b01abe85044aaeada6f41b2b50f8270e5467f29256f81",
+      "roofAtlas": {
+        "bytes": 35779,
+        "sha256": "e548bce1bd3c1521e5b87a605419ae13044ec2a050670064e6a3cdd863b184c5",
+        "primitiveCount": 1
+      }
+    },
+    {
+      "tile": "-1_5",
+      "sha": "bfc5063c8f2525e4f9c33760939ad8a54f3b3fe528564d3a425def7f2295bf51",
+      "roofAtlas": {
+        "bytes": 35668,
+        "sha256": "47c280c4e1e61908e0738b72fc4827fe105296f3656127f18bc54ca9ade383f1",
+        "primitiveCount": 1
+      }
+    },
+    {
+      "tile": "-1_6",
+      "sha": "3ecb7ea93d0a7d8ab1e61e1a93c395d687fc68eaddaf0a76db37557930ad0ac0",
+      "roofAtlas": {
+        "bytes": 38971,
+        "sha256": "49f2456770652f4fc002d733344cca73e5c25c8b2915fea2d3cd59db5cbfbc5f",
+        "primitiveCount": 1
+      }
+    },
+    {
+      "tile": "-1_7",
+      "sha": "5b1c77b70c53e23d1c06ec0299f74fbc4b91979a5464d0886d15308eaaff4dcf",
+      "roofAtlas": {
+        "bytes": 34942,
+        "sha256": "4b0f689d8a88384728787ea45891e398f5f35df7f721a253c9799f6216a153b4",
+        "primitiveCount": 1
+      }
+    },
+    {
+      "tile": "-1_8",
+      "sha": "678dfbaff7abf1aee9f15c66b7ca9110b9b01469d1c9f409bf3945ce73732daf",
+      "roofAtlas": {
+        "bytes": 29209,
+        "sha256": "671e23b88d2288341039240f244fef6031889864641f7c2fa130776c960ce1ce",
+        "primitiveCount": 1
+      }
+    },
+    {
+      "tile": "-1_9",
+      "sha": "08d29f51b290dc6d855650c78eb255778eb967c675a6aa81dd8eda328027e8b5",
+      "roofAtlas": {
+        "bytes": 101687,
+        "sha256": "2706b3e5e16f5e98a23267f3a30c749630174db456c48d69bfa1cd22b96d8133",
+        "primitiveCount": 1
+      }
+    },
+    {
+      "tile": "-2_-1",
+      "sha": "928f98c74459f2a5ff243efdfa3418ac92a7e4c0eda0ccdd6884c557824e23d8",
+      "roofAtlas": {
+        "bytes": 32778,
+        "sha256": "88a3ce79f33c6a22265fe6be2397cebdd00ab4505653b4135bd24ee8eaf58b5f",
+        "primitiveCount": 1
+      }
+    },
+    {
+      "tile": "-2_-6",
+      "sha": "f5c63bc7f368f20e8f7eee50781304a76e2b86362a0943c0e8114e4d95934de9",
+      "roofAtlas": {
+        "bytes": 8147,
+        "sha256": "3919861bf6d063cc1228340a459c893d7a50083f9125533762449104bde8d5c3",
+        "primitiveCount": 1
+      }
+    },
+    {
+      "tile": "-2_0",
+      "sha": "b41305927b8aa8a19f5e973b37bcc5bba4a6ae3927e08b161b30a999ab3d55ae",
+      "roofAtlas": {
+        "bytes": 33868,
+        "sha256": "914c5b96ca354c12769aee22827cd12b495c5b61d42d5d7cbf0825aeabb1446c",
+        "primitiveCount": 1
+      }
+    },
+    {
+      "tile": "-2_1",
+      "sha": "c2e6045818b62f17ca9cf6420e5a617a4cd35bbe4ba5621de249de8b727fa6c2",
+      "roofAtlas": {
+        "bytes": 33536,
+        "sha256": "81f6da115015de4bb4ab8d4c7c070dd4758121acad4b8e4cc851221410250b1d",
+        "primitiveCount": 1
+      }
+    },
+    {
+      "tile": "-2_10",
+      "sha": "1281e609cba05e4d3e2f07a9f8b63119dfcfe905730ffc250e6c6cb4f29c9268",
+      "roofAtlas": {
+        "bytes": 11971,
+        "sha256": "c7dafb009382e9f3013673ca0a5f6032ddcaa51ee7f6d0ae4bc5d80469cec7c6",
+        "primitiveCount": 1
+      }
+    },
+    {
+      "tile": "-2_11",
+      "sha": "a7c0ff67c8fa24527ae58aa32874494f89ee30ff6f6975209ef10431609f31fc",
+      "roofAtlas": {
+        "bytes": 5532,
+        "sha256": "0f3edacc9fd0a1158ff3f191aa28eb5c50b91112aff742f6305d006daad44811",
+        "primitiveCount": 1
+      }
+    },
+    {
+      "tile": "-2_8",
+      "sha": "94832760cb2cca292868024a0cc697b63e43a348055f96d3e2356cc7f604ce35"
+    },
+    {
+      "tile": "-2_9",
+      "sha": "7651933fe5749347c87fd6c67e8f300513d62fa5769c7fef7f583d4c81dff897",
+      "roofAtlas": {
+        "bytes": 11588,
+        "sha256": "a230971636d0a861eeb5f9bb124156ce974d62db0e7c126eacd6872891da823f",
+        "primitiveCount": 1
+      }
+    },
+    {
+      "tile": "-3_-1",
+      "sha": "350fe13640b09d13248ffb68d746b2f6c237cec9eb38bbe878d82711626ccfcc",
+      "roofAtlas": {
+        "bytes": 105625,
+        "sha256": "e2eb5972c0ca966e70279d917971789236cf58ae76113cd3d8334e6555454add",
+        "primitiveCount": 1
+      }
+    },
+    {
+      "tile": "-3_-2",
+      "sha": "9c4877cb03a7a40338dd54e2cac8ab391eef1ef25417cbd0049cbcf33033b7ae",
+      "roofAtlas": {
+        "bytes": 5538,
+        "sha256": "d7e78cd0e16457108e3e397dd2a8fd7028d21eddfdd852f915ccd10303ea8e63",
+        "primitiveCount": 1
+      }
+    },
+    {
+      "tile": "-3_-6",
+      "sha": "b69dc64c7e82ae817d7706b274060ec3df36ba69e282c9c4a2d949c4e9ff420f",
+      "roofAtlas": {
+        "bytes": 4539,
+        "sha256": "ba4ef47ec6af0744ced4293902acfe11f114335a8225371a4cb0c919a1522edc",
+        "primitiveCount": 1
+      }
+    },
+    {
+      "tile": "-3_0",
+      "sha": "38c2a5e936ffc5d9876dc88ca8d901f128c619c18440e8f2948f635b57b43567",
+      "roofAtlas": {
+        "bytes": 76949,
+        "sha256": "a7bd65823292b78c326f0964b5e99fe1a9ac35b9be0e3037fba86e71170aafd3",
+        "primitiveCount": 1
+      }
+    },
+    {
+      "tile": "-3_1",
+      "sha": "663d7c83f283b8d85c1efc00e2a0ff7d980845e43da059f1d119f1ffa9ad8529",
+      "roofAtlas": {
+        "bytes": 18325,
+        "sha256": "8c90ebdf8604a323aa98659be4a85ce2a3cf5f4bde26051dac51c6c1162cd8f9",
+        "primitiveCount": 1
+      }
+    },
+    {
+      "tile": "-3_2",
+      "sha": "4e092d93ac406a8ed401135ddb4f42db0f9898965731c34a8ae19cf4ff216e99",
+      "roofAtlas": {
+        "bytes": 13429,
+        "sha256": "7b8978c8cd1735f53129dad039579c185d564c5433728c65f1dd69f71117efc0",
+        "primitiveCount": 1
+      }
+    },
+    {
+      "tile": "-4_-1",
+      "sha": "0c092dfc612a2be621c13c2a857983735437d3e129ecf59f194e5c62a8f6fa0a",
+      "roofAtlas": {
+        "bytes": 80096,
+        "sha256": "0f7d2d60e88587559d1e03c0d6577d98ba7e9f232ed760993371a5f892011569",
+        "primitiveCount": 1
+      }
+    },
+    {
+      "tile": "-4_-2",
+      "sha": "552a6ffffef679cbcb28af6350437b1a1b88c2c8bc496a85e484efa0714dd8b1",
+      "roofAtlas": {
+        "bytes": 9943,
+        "sha256": "895ec6cfd0dd4a1ed16466848c56ba8af858d8d5329b38a5a92a1059a5e3ba14",
+        "primitiveCount": 1
+      }
+    },
+    {
+      "tile": "-4_-4",
+      "sha": "57b1bd90afdb2fc902e8703c1250b144abe0b94d30d64aeabca1c79cd230a9ad",
+      "roofAtlas": {
+        "bytes": 5399,
+        "sha256": "8c5a69ac653cd6fe9363f3daa5f168154eae23e49d2dcc7176402a4370020e99",
+        "primitiveCount": 1
+      }
+    },
+    {
+      "tile": "-4_0",
+      "sha": "d1a8b1d7ab5e679ca79072ba0ecb939543e66588ab425dcb122e5cba0a796a7a",
+      "roofAtlas": {
+        "bytes": 184362,
+        "sha256": "18a0358d827fee42419acdbe8d0738882138dcf882a33413b09cb64d4658eab6",
+        "primitiveCount": 1
+      }
+    },
+    {
+      "tile": "-4_1",
+      "sha": "344a035b94d063cb1821a4b2e4dd081431141c1d8d0c783f460b92a4148d40ca",
+      "roofAtlas": {
+        "bytes": 40478,
+        "sha256": "5aa309b54ba9f5d7ed5ec6ba37d0974bfac2bfc245ef4b41c42188d0283eb5b9",
+        "primitiveCount": 1
+      }
+    },
+    {
+      "tile": "-4_2",
+      "sha": "a7e8537f345a57321aa9d70e6c936e8c14da09722bcc8a1a2d372404a51a95dd",
+      "roofAtlas": {
+        "bytes": 1909,
+        "sha256": "592a842d31d3444e299a13e3f2c82dde9d06e2a0398c597ce13eaa7fa2d52b52",
+        "primitiveCount": 1
+      }
+    },
+    {
+      "tile": "-5_-1",
+      "sha": "f1e2e84689de480c3847116efc6ac3e532f16bea9bc6e8e4219a8b3dc0296c8b",
+      "roofAtlas": {
+        "bytes": 30962,
+        "sha256": "07f1979f903d5a4a4fdac6583be305f94db118066406e38e9c92a3134ef3fa34",
+        "primitiveCount": 1
+      }
+    },
+    {
+      "tile": "-5_-2",
+      "sha": "ef332af0493390859efba8927373785636389ef7845732c3bd64edaff3617f5c",
+      "roofAtlas": {
+        "bytes": 1768,
+        "sha256": "d8e869cd0da0bbcfd7db9cd3916b51e07112f418af7e11e35267b889201ba454",
+        "primitiveCount": 1
+      }
+    },
+    {
+      "tile": "-5_-4",
+      "sha": "4bdbc6e27233fb61fe4f28c23533e1f49a4f4496f60d0b6cbaaaacc13d4b801d",
+      "roofAtlas": {
+        "bytes": 6705,
+        "sha256": "ffaf64e540bff76db00cae047e83308cf1aa8584c3c3b1f4b6591686ff69b4a4",
+        "primitiveCount": 1
+      }
+    },
+    {
+      "tile": "-5_0",
+      "sha": "afcd49ed2f661a1f86398d7a75efb48e665f711904e4c36b70eda4d432d4d514",
+      "roofAtlas": {
+        "bytes": 33591,
+        "sha256": "af565662cc3080ffa55efd92a2af3d08f1cc33c57cd35878a364580ded828d56",
+        "primitiveCount": 1
+      }
+    },
+    {
+      "tile": "-5_1",
+      "sha": "e10b6cb745d44a7ad3ab6897fd7a1083abe534a3500150c77b228c090a0fc1d1",
+      "roofAtlas": {
+        "bytes": 67154,
+        "sha256": "74bfd4c274c28b7178821577c41a57f8e95b547bfa31616652800ea56933ae37",
+        "primitiveCount": 1
+      }
+    },
+    {
+      "tile": "-5_2",
+      "sha": "7cef51b6b5a548c58ee4904526fa32c3cc922f9c052076f3afba1881ba4acb05",
+      "roofAtlas": {
+        "bytes": 45172,
+        "sha256": "dccaa1ad693445846fb5fcca183b00d1a71f9f4c799903aab7ec20344441b419",
+        "primitiveCount": 1
+      }
+    },
+    {
+      "tile": "-5_3",
+      "sha": "c5ee7dee410ac6fc82f73563df61b88d4ac281a99799fa552d4de2e47faf3dd6",
+      "roofAtlas": {
+        "bytes": 2439,
+        "sha256": "4ff5ab39c9108a33cb1e98eb6ee81f140612598afc6187c049ed1e0339d78dae",
+        "primitiveCount": 1
+      }
+    },
+    {
+      "tile": "-6_-1",
+      "sha": "9b32e189de07b85fec06af78476fc225a954ad614f00fe657bfd2828a41a706a",
+      "roofAtlas": {
+        "bytes": 20681,
+        "sha256": "582296af6ca505b4dfd38a4b6cb5229742e15df1d4a315d5359f5f69c82b7126",
+        "primitiveCount": 1
+      }
+    },
+    {
+      "tile": "-6_-2",
+      "sha": "e2841abebebab4e5138ed255e310d12fde4ff1251f45214188ef1081c5308c4d",
+      "roofAtlas": {
+        "bytes": 23408,
+        "sha256": "e5f4433c0e3e14b1a2233688b1d0f936b4be077a5c2e3c75176e899a0dd12a8f",
+        "primitiveCount": 1
+      }
+    },
+    {
+      "tile": "-6_0",
+      "sha": "bf1d2058b198524770901ac35a1991d0667c7f8a0c97aa1ac78e72bb6e6ab515",
+      "roofAtlas": {
+        "bytes": 22132,
+        "sha256": "24feb44ea36b402a652100f61add5e38a820ec0e7d1b08b17a361575a519670a",
+        "primitiveCount": 1
+      }
+    },
+    {
+      "tile": "-6_1",
+      "sha": "20e3e009afe18ff0c1770148c66c62f6a444eb4fa1e20ae89c5a9a756f50c75d",
+      "roofAtlas": {
+        "bytes": 33826,
+        "sha256": "fe891554ff8672dba643a1b2ff9a9b7e4d7f2bb4071945705f02ee29f91bffac",
+        "primitiveCount": 1
+      }
+    },
+    {
+      "tile": "-6_2",
+      "sha": "dd8523d7bebcb45b8f1e27d76dc4f2b8d7b121349bf1fa79b9cf4d37fb899b7b",
+      "roofAtlas": {
+        "bytes": 3220,
+        "sha256": "f7421001d4b39687c1912401fc0d43af380e5cde3599c85b07743c098e88f55a",
+        "primitiveCount": 1
+      }
+    },
+    {
+      "tile": "-7_-1",
+      "sha": "2102d25a547c0f54b5c75ac0718fd3a7862e9823ca901a1c269203a447ffaeb9",
+      "roofAtlas": {
+        "bytes": 5931,
+        "sha256": "eb5bd43e69a38c990996d9a1d66f0ec2ca84a56f1f65a7bb313ae45d2b69b107",
+        "primitiveCount": 1
+      }
+    },
+    {
+      "tile": "-7_0",
+      "sha": "217dc38da4f0d022b0f7b48ad6aa82c1c7764e82841bbfe964c03f2b317fd467",
+      "roofAtlas": {
+        "bytes": 73352,
+        "sha256": "0a8eec493f15de332cc0c259b00ab7a5756b80aff6de05cfd6535fea3d5ff98d",
+        "primitiveCount": 1
+      }
+    },
+    {
+      "tile": "-7_1",
+      "sha": "46aeb80355b376e71164fdc124a74c0856e194c5417a315910ba503ffa3b2833",
+      "roofAtlas": {
+        "bytes": 6792,
+        "sha256": "5c0456db1570da77d859c20c93876e8a958d0352de06f044ecace834213e88d0",
+        "primitiveCount": 1
+      }
+    },
+    {
+      "tile": "-8_0",
+      "sha": "60871057ae10f698cbb0f4312f4bf82d7dc966774bd10f7e2290a63a2e1a6efc",
+      "roofAtlas": {
+        "bytes": 61337,
+        "sha256": "73b2340ae77410b9118964abf4526c8bbff90d30a985873e3aa737e58dc84d2e",
+        "primitiveCount": 1
+      }
+    },
+    {
+      "tile": "-8_1",
+      "sha": "a2175a21b3cedb50384d4aaf5b447f02e829e824aef0bf21f1ea1a766cc3de64",
+      "roofAtlas": {
+        "bytes": 6662,
+        "sha256": "27a1ae0b7c9fbf30928a7a9b9858e0db435f7e999b3d40f08671d66c716e69ee",
+        "primitiveCount": 1
+      }
+    },
+    {
+      "tile": "-9_0",
+      "sha": "5b684678ad18fe67df062cf481a8d16a2b99e40077dbbb745ebc39d28bc7fbbd",
+      "roofAtlas": {
+        "bytes": 25499,
+        "sha256": "bc16a2f35c86d92c1b4862952a740ce47dea96f20a1c4f454ae320ff422472d0",
+        "primitiveCount": 1
+      }
+    },
+    {
+      "tile": "-9_1",
+      "sha": "7e9fc6640c9f0542a10b0df79f2d7cd281135ac4b55b16573573bb7c8c8a4220",
+      "roofAtlas": {
+        "bytes": 31868,
+        "sha256": "b33a28e115aec55a5db77a235f6f46e22b3261d227657f6bb6fc41eb03787c7f",
+        "primitiveCount": 1
+      }
+    },
+    {
+      "tile": "0_-1",
+      "sha": "198739de6a8feca160462bf4b33be3473d06ead7bc61c370660eb949ecd979c2",
+      "roofAtlas": {
+        "bytes": 57445,
+        "sha256": "bd262c304682d4e46a0e62936cfb4285e07ae28bc3f27bd226fdfb9baee22fa7",
+        "primitiveCount": 1
+      }
+    },
+    {
+      "tile": "0_-2",
+      "sha": "c95ba8a3acdc541e0da6ec04788cf479dfedbdd26a0e84866059193b5cbf0cd8",
+      "roofAtlas": {
+        "bytes": 46672,
+        "sha256": "b0875142861cfd02934364724608905c1903e355400321112f55f1358d4e11cd",
+        "primitiveCount": 1
+      }
+    },
+    {
+      "tile": "0_0",
+      "sha": "d94404159077246dad121217f56a6c79fdac1e71148df4ed2e8dee4bc19adfbb",
+      "roofAtlas": {
+        "bytes": 109008,
+        "sha256": "b8ebaebf051481b83445bd07807fba1a38375f697aa5cf8c7e245e601ae1bc26",
+        "primitiveCount": 1
+      }
+    },
+    {
+      "tile": "0_12",
+      "sha": "d304e1dbeac0bf257cebe26ee26141fe74e84c8800ab70a15ba05421e7f36854"
+    },
+    {
+      "tile": "0_13",
+      "sha": "77a760c601e1c81eaab398d73697b39a7a4520195b24575cf16ff8c598612fd6",
+      "roofAtlas": {
+        "bytes": 21695,
+        "sha256": "0d445f2f7cf82cccd140fd7f2b143b5ac55507fc961292455e602ee9d1abeacb",
+        "primitiveCount": 1
+      }
+    },
+    {
+      "tile": "0_14",
+      "sha": "b4ededf4e47873f9763b9341251575943520579237325d4d279da9a9c000919c",
+      "roofAtlas": {
+        "bytes": 2263,
+        "sha256": "35554f8c1b488cad127b9bc71d4cd3ac1aabf651407b05df50858c677f25908a",
+        "primitiveCount": 1
+      }
+    },
+    {
+      "tile": "0_15",
+      "sha": "dd0d494e8ac6eb05841d51414e4af7400cbe2bf76de3833a55778251dc1e5159",
+      "roofAtlas": {
+        "bytes": 14788,
+        "sha256": "28b6c91c8f16555d999d08198216dfe7071c510a3c2e8729d4eadfa30981ec0e",
+        "primitiveCount": 1
+      }
+    },
+    {
+      "tile": "0_16",
+      "sha": "2c2b96fc68233cb3b5c526fda0a7b98e7dbbd29e940a69d284e017bd18aee6b6",
+      "roofAtlas": {
+        "bytes": 914,
+        "sha256": "32957b3262044c061f4ffc09d48daaa0ca63b3512c56514b3dddb3865c9676af",
+        "primitiveCount": 1
+      }
+    },
+    {
+      "tile": "1_-2",
+      "sha": "037dd8e7f2dddea5360f17d49420224272ba20fd0dbb8d67f879c3f0645d584e",
+      "roofAtlas": {
+        "bytes": 10681,
+        "sha256": "d698929e9a33d4c6c49add50ccd7e945eda2f8ef140010dbcaa82f2656cbe568",
+        "primitiveCount": 1
+      }
+    },
+    {
+      "tile": "1_-3",
+      "sha": "f0978d62399236dda1109711dcae115d2ecd72612c69f098273eeccd394a9ea5",
+      "roofAtlas": {
+        "bytes": 37587,
+        "sha256": "fc177fa9749534bd46836d1dd174dad14f90fc6560b8afb2a86195751d06fb35",
+        "primitiveCount": 1
+      }
+    },
+    {
+      "tile": "1_-4",
+      "sha": "25992f46b0e176997e76829284552abb5f2e03858b884dbaee38a864588cefe8",
+      "roofAtlas": {
+        "bytes": 14791,
+        "sha256": "a2f1ad03142fd639d9dd50a7ed58d75ae7e96a88bbb05330534dcc02ca37463e",
+        "primitiveCount": 1
+      }
+    },
+    {
+      "tile": "1_0",
+      "sha": "310d29bd5a31949629655aaed276410882cb0b26baddca89287824a043c4797e",
+      "roofAtlas": {
+        "bytes": 101377,
+        "sha256": "c07480ec4da5884b84643c9e60f9c1b1634292d970c40d63ff645eef6d5718fd",
+        "primitiveCount": 1
+      }
+    },
+    {
+      "tile": "1_1",
+      "sha": "8d1cf80c0ed5bf1b3b0d094c075b7d11254d9cbc29aef6a1d708eb395e202391",
+      "roofAtlas": {
+        "bytes": 26516,
+        "sha256": "b5d2dd43334980a45f493122ceca8f493323d281e8e426238e61fe8bd4087862",
+        "primitiveCount": 1
+      }
+    },
+    {
+      "tile": "2_-4",
+      "sha": "8ed024aae1f9d59ba62dc24b84cebced34418131650eb612173eb4be24c1ef9b",
+      "roofAtlas": {
+        "bytes": 25032,
+        "sha256": "65baa83847475416839cf2ebec4daaf998f82247511c3104a11f2700fea2a633",
+        "primitiveCount": 1
+      }
+    },
+    {
+      "tile": "2_-5",
+      "sha": "b1f56529fc520cb6bfcdf8d3e439471266b3a11ba4e45e3299b88772492b49f0",
+      "roofAtlas": {
+        "bytes": 7516,
+        "sha256": "682437bbedd54810e4c985ed8a2e740320e9868931ba43974d154eff28c269f3",
+        "primitiveCount": 1
+      }
+    },
+    {
+      "tile": "2_0",
+      "sha": "2598499b2523281bc102ff42e9d48f2ffa19f311458d47df926c8f495f00e6aa",
+      "roofAtlas": {
+        "bytes": 27525,
+        "sha256": "735c36912674ec0aff8300f412099738e47de28013594cb3bb93bf2614900214",
+        "primitiveCount": 1
+      }
+    },
+    {
+      "tile": "2_1",
+      "sha": "9f4fd7bda8eadc7eac28aa5ef61ea2463a6b5c0ad706f7e981968fde6ab18de8",
+      "roofAtlas": {
+        "bytes": 15832,
+        "sha256": "448ab0452d5fe35485860b3aa3b49a96defe90eeff5e4a48ff0bd62c22b765b1",
+        "primitiveCount": 1
+      }
+    },
+    {
+      "tile": "3_1",
+      "sha": "19df5995ac67cf3d45383c1bae567b7cf4e1d1f204add2b04d6949fabf26fc16",
+      "roofAtlas": {
+        "bytes": 19227,
+        "sha256": "581e3e1ed25bc72e48babf579450ef7fcf460a9c828cb0a916ba561f475543d6",
+        "primitiveCount": 1
+      }
+    },
+    {
+      "tile": "4_1",
+      "sha": "2d89c5d0953d11c49b7e9fc405412ac23f43f63d779bf5895b7426b60e840423",
+      "roofAtlas": {
+        "bytes": 15735,
+        "sha256": "776bb02afd2c0d79d2666e9a73df13d1b5ddac2fa5c53bfea8c570a1e338a0e2",
+        "primitiveCount": 1
+      }
+    },
+    {
+      "tile": "5_1",
+      "sha": "5cd7ac7a3a7dc7b8c2a952a1cec39fab5931d5947ab608908a7ac3351b00a035",
+      "roofAtlas": {
+        "bytes": 1218,
+        "sha256": "c31b9e26a8e446cd1f0bf510f5ff80ec6b19ac70af65f341cbae5025c8f45ec9",
+        "primitiveCount": 1
+      }
+    },
+    {
+      "tile": "6_1",
+      "sha": "df47f84db49027524dcd033e4f113052025cfdbde3c619060efd0d556296f3f9",
+      "roofAtlas": {
+        "bytes": 4477,
+        "sha256": "577532487178a790c5405c22113ddb2b9e3e2daa305948767a302547b339e82d",
+        "primitiveCount": 1
+      }
+    },
+    {
+      "tile": "6_2",
+      "sha": "a8995b48a2b3926677f93a65a68503aa8e5515e0a19462fe2f500ea502eb2616",
+      "roofAtlas": {
+        "bytes": 4185,
+        "sha256": "2bab3d9f7fd8ca688060c518e1efc208a9b5ccb58864d41f2e81c413fde93034",
+        "primitiveCount": 1
+      }
+    }
+  ],
+  "roofTiles": [],
+  "captures": [
+    {
+      "id": "rebel-bookstore",
+      "name": "Rebel Bookstore",
+      "kind": "storefronts",
+      "tile": "-1_-1",
+      "file": "images/rebel-bookstore.jpg",
+      "focus": [
+        -280.17,
+        -23.86
+      ],
+      "anchors": [
+        [
+          "421471600",
+          [
+            -299.59,
+            -8.12
+          ]
+        ]
+      ],
+      "notes": [
+        "paired glazed entrance in main bay",
+        "dark continuous shed awning across L court",
+        "fixed rectangular shop windows"
+      ],
+      "references": [
+        [
+          "operator",
+          "https://rebelrental.com/home",
+          "Correct east Jackson postal address; inventory labels the corridor West"
+        ],
+        [
+          "tenant advertisement with photo",
+          "https://thedmonline.com/wp-content/uploads/2022/05/Rebel%20Guide%202022%20ALL%20PAGES.pdf#page=8",
+          "Summer 2022 photo, dark awnings with light lettering, entry and glazing"
+        ],
+        [
+          "city/MDAH survey",
+          "https://www.oxfordms.net/documents/departments/planning/surveys/jackson%20avenue/jackson%20avenue.pdf",
+          "L-plan commercial block, cross gable and glazing report"
+        ]
+      ],
+      "eye": [
+        -273.94,
+        2.234,
+        -35.2
+      ],
+      "look": [
+        -280.17,
+        2.1,
+        -23.86
+      ],
+      "fov": 52,
+      "sha256": "5b3ee3ac44f7b81055fe0986f7c742756de942b98e1a97b628ae7c5afc4c3d7c",
+      "assetSHA256": "8ae36cee51abe9d36da937a100ba4d72f812d5e809b724e33ce16a0ae147cca9",
+      "prim": 20,
+      "triangles": 138803,
+      "registered": true,
+      "roofMeshes": [
+        {
+          "width": 1024,
+          "height": 1024,
+          "flipY": false,
+          "uvs": 878,
+          "uploaded": true
+        }
+      ],
+      "uvRegistration": null,
+      "actualEye": [
+        -273.94,
+        155.58460000000002,
+        -35.2
+      ],
+      "normalUnchanged": true,
+      "groupVisible": true,
+      "errors": []
+    },
+    {
+      "id": "rebel-bookstore-detail",
+      "name": "Rebel Bookstore · oblique detail",
+      "kind": "storefronts",
+      "tile": "-1_-1",
+      "file": "images/rebel-bookstore-detail.jpg",
+      "focus": [
+        -280.17,
+        -23.86
+      ],
+      "anchors": [
+        [
+          "421471600",
+          [
+            -299.59,
+            -8.12
+          ]
+        ]
+      ],
+      "notes": [
+        "paired glazed entrance in main bay",
+        "dark continuous shed awning across L court",
+        "fixed rectangular shop windows"
+      ],
+      "references": [
+        [
+          "operator",
+          "https://rebelrental.com/home",
+          "Correct east Jackson postal address; inventory labels the corridor West"
+        ],
+        [
+          "tenant advertisement with photo",
+          "https://thedmonline.com/wp-content/uploads/2022/05/Rebel%20Guide%202022%20ALL%20PAGES.pdf#page=8",
+          "Summer 2022 photo, dark awnings with light lettering, entry and glazing"
+        ],
+        [
+          "city/MDAH survey",
+          "https://www.oxfordms.net/documents/departments/planning/surveys/jackson%20avenue/jackson%20avenue.pdf",
+          "L-plan commercial block, cross gable and glazing report"
+        ]
+      ],
+      "eye": [
+        -277.9748,
+        2.084,
+        -32.692600000000006
+      ],
+      "look": [
+        -280.17,
+        2.1,
+        -23.86
+      ],
+      "fov": 45,
+      "optional": true,
+      "sha256": "8d70de8f4be892cdf56523b39ab51cd15ce4f5e325e5d23109e40b6388bedfe7",
+      "assetSHA256": "8ae36cee51abe9d36da937a100ba4d72f812d5e809b724e33ce16a0ae147cca9",
+      "prim": 20,
+      "triangles": 138803,
+      "registered": true,
+      "roofMeshes": [
+        {
+          "width": 1024,
+          "height": 1024,
+          "flipY": false,
+          "uvs": 878,
+          "uploaded": true
+        }
+      ],
+      "uvRegistration": null,
+      "actualEye": [
+        -277.9748,
+        155.36290950000003,
+        -32.692600000000006
+      ],
+      "normalUnchanged": true,
+      "groupVisible": true,
+      "errors": []
+    },
+    {
+      "id": "proud-larry-s",
+      "name": "Proud Larry's",
+      "kind": "storefronts",
+      "tile": "-1_0",
+      "file": "images/proud-larry-s.jpg",
+      "focus": [
+        -13.84,
+        135.72
+      ],
+      "anchors": [
+        [
+          "599827683",
+          [
+            -14.72,
+            140.24
+          ]
+        ]
+      ],
+      "notes": [
+        "four red fixed display-window frames",
+        "dark center paired entry",
+        "cream horizontal header",
+        "mosaic sign and three goosenecks"
+      ],
+      "references": [
+        [
+          "operator",
+          "https://proudlarrys.com/",
+          "Current address and mosaic"
+        ],
+        [
+          "operator elevation photograph",
+          "https://proudlarrys.com/meta-cover.png",
+          "Nearly square-on storefront photo"
+        ]
+      ],
+      "eye": [
+        -22.67,
+        2.401,
+        133.99
+      ],
+      "look": [
+        -13.84,
+        2.1,
+        135.72
+      ],
+      "fov": 52,
+      "sha256": "3e0b615f4225d20e9141a588828ee09c7501a36cab809425b28ba55d23f300c6",
+      "assetSHA256": "d51d425238047fec7200607457e4a2ef9e256db7edf6f126f68ed0d4bdf0dfed",
+      "prim": 23,
+      "triangles": 253086,
+      "registered": true,
+      "roofMeshes": [
+        {
+          "width": 1024,
+          "height": 1024,
+          "flipY": false,
+          "uvs": 1476,
+          "uploaded": true
+        }
+      ],
+      "uvRegistration": null,
+      "actualEye": [
+        -22.67,
+        156.1296,
+        133.99
+      ],
+      "normalUnchanged": true,
+      "groupVisible": true,
+      "errors": []
+    },
+    {
+      "id": "proud-larry-s-detail",
+      "name": "Proud Larry's · oblique detail",
+      "kind": "storefronts",
+      "tile": "-1_0",
+      "file": "images/proud-larry-s-detail.jpg",
+      "focus": [
+        -13.84,
+        135.72
+      ],
+      "anchors": [
+        [
+          "599827683",
+          [
+            -14.72,
+            140.24
+          ]
+        ]
+      ],
+      "notes": [
+        "four red fixed display-window frames",
+        "dark center paired entry",
+        "cream horizontal header",
+        "mosaic sign and three goosenecks"
+      ],
+      "references": [
+        [
+          "operator",
+          "https://proudlarrys.com/",
+          "Current address and mosaic"
+        ],
+        [
+          "operator elevation photograph",
+          "https://proudlarrys.com/meta-cover.png",
+          "Nearly square-on storefront photo"
+        ]
+      ],
+      "eye": [
+        -20.1558,
+        2.251,
+        136.133
+      ],
+      "look": [
+        -13.84,
+        2.1,
+        135.72
+      ],
+      "fov": 45,
+      "optional": true,
+      "sha256": "4953c6c887b4d28dc128120f56d0e610afd92a60339a6814c27a1eb92b8bc59f",
+      "assetSHA256": "d51d425238047fec7200607457e4a2ef9e256db7edf6f126f68ed0d4bdf0dfed",
+      "prim": 23,
+      "triangles": 253086,
+      "registered": true,
+      "roofMeshes": [
+        {
+          "width": 1024,
+          "height": 1024,
+          "flipY": false,
+          "uvs": 1476,
+          "uploaded": true
+        }
+      ],
+      "uvRegistration": null,
+      "actualEye": [
+        -20.1558,
+        155.9266205,
+        136.133
+      ],
+      "normalUnchanged": true,
+      "groupVisible": true,
+      "errors": []
+    },
+    {
+      "id": "trustmark-west-jackson",
+      "name": "Trustmark West Jackson",
+      "kind": "storefronts",
+      "tile": "-8_0",
+      "file": "images/trustmark-west-jackson.jpg",
+      "focus": [
+        -4087.64,
+        358.85
+      ],
+      "anchors": [
+        [
+          "270268548",
+          [
+            -4099.66,
+            348.65
+          ]
+        ]
+      ],
+      "notes": [
+        "four paired upper portico columns and triangular pediment",
+        "round crossbar window above entry",
+        "four flanking window bays per level",
+        "Trustmark facade lettering"
+      ],
+      "references": [
+        [
+          "current operator + address",
+          "https://www.trustmark.com/locations/ms/oxford/west-jackson",
+          "Current Trustmark branch at 2301; game inventory uses an older bank name"
+        ],
+        [
+          "operator elevation photo",
+          "https://www.trustmark.com/content/dam/trustmark/locations/mississippi/oxford/2301_jackson_avenue_west/2301%20Jackson%20Ave%20W_MAIN.jpg",
+          "Near-frontal white portico, circular sash, brickwork, and all window counts"
+        ]
+      ],
+      "eye": [
+        -4083.8,
+        2.113,
+        376.44
+      ],
+      "look": [
+        -4087.64,
+        3.95,
+        358.85
+      ],
+      "fov": 52,
+      "sha256": "4a09db1dc81e9d0a5c9638604bef20b978ea93b2e1384bf8a2b537772819ba8b",
+      "assetSHA256": "60871057ae10f698cbb0f4312f4bf82d7dc966774bd10f7e2290a63a2e1a6efc",
+      "prim": 16,
+      "triangles": 71280,
+      "registered": true,
+      "roofMeshes": [
+        {
+          "width": 1024,
+          "height": 1024,
+          "flipY": false,
+          "uvs": 403,
+          "uploaded": true
+        }
+      ],
+      "uvRegistration": null,
+      "actualEye": [
+        -4083.8,
+        113.3104,
+        376.44
+      ],
+      "normalUnchanged": true,
+      "groupVisible": true,
+      "errors": []
+    },
+    {
+      "id": "trustmark-west-jackson-detail",
+      "name": "Trustmark West Jackson · oblique detail",
+      "kind": "storefronts",
+      "tile": "-8_0",
+      "file": "images/trustmark-west-jackson-detail.jpg",
+      "focus": [
+        -4087.64,
+        358.85
+      ],
+      "anchors": [
+        [
+          "270268548",
+          [
+            -4099.66,
+            348.65
+          ]
+        ]
+      ],
+      "notes": [
+        "four paired upper portico columns and triangular pediment",
+        "round crossbar window above entry",
+        "four flanking window bays per level",
+        "Trustmark facade lettering"
+      ],
+      "references": [
+        [
+          "current operator + address",
+          "https://www.trustmark.com/locations/ms/oxford/west-jackson",
+          "Current Trustmark branch at 2301; game inventory uses an older bank name"
+        ],
+        [
+          "operator elevation photo",
+          "https://www.trustmark.com/content/dam/trustmark/locations/mississippi/oxford/2301_jackson_avenue_west/2301%20Jackson%20Ave%20W_MAIN.jpg",
+          "Near-frontal white portico, circular sash, brickwork, and all window counts"
+        ]
+      ],
+      "eye": [
+        -4081.8626,
+        1.963,
+        370.12000000000006
+      ],
+      "look": [
+        -4087.64,
+        3.95,
+        358.85
+      ],
+      "fov": 45,
+      "optional": true,
+      "sha256": "62ee445cc5b66a457528f43d76d148cd9b7cec1bce9bfc23d4f576a1f3f97b21",
+      "assetSHA256": "60871057ae10f698cbb0f4312f4bf82d7dc966774bd10f7e2290a63a2e1a6efc",
+      "prim": 16,
+      "triangles": 71280,
+      "registered": true,
+      "roofMeshes": [
+        {
+          "width": 1024,
+          "height": 1024,
+          "flipY": false,
+          "uvs": 403,
+          "uploaded": true
+        }
+      ],
+      "uvRegistration": null,
+      "actualEye": [
+        -4081.8626,
+        112.95122399999998,
+        370.12000000000006
+      ],
+      "normalUnchanged": true,
+      "groupVisible": true,
+      "errors": []
+    },
+    {
+      "id": "good-day-caf",
+      "name": "Good Day Café",
+      "kind": "storefronts",
+      "tile": "0_-2",
+      "file": "images/good-day-caf.jpg",
+      "focus": [
+        288.63,
+        -769.95
+      ],
+      "anchors": [
+        [
+          "598636248",
+          [
+            282.87,
+            -766.42
+          ]
+        ]
+      ],
+      "notes": [
+        "two charcoal-framed roll-up glass bays",
+        "charcoal street wall",
+        "cream roof band",
+        "Good Day window lettering"
+      ],
+      "references": [
+        [
+          "operator",
+          "https://www.gooddayoxford.com/",
+          "Operator confirms current 766 North Lamar address; inventory formerly Oxford Canteen/768"
+        ],
+        [
+          "operator photo",
+          "https://tock-public.imgix.net/imagesprod/user_uploaded_images_v1/7532ed36-be17-4d9d-9dd4-356012d84e29.jpg",
+          "Through operator reservation page, garage elevations"
+        ],
+        [
+          "exterior",
+          "https://nroxford.com/neighborhood-blog/neighborhood-business-highlight-good-day-cafe",
+          "Street-level storefront and window lettering"
+        ],
+        [
+          "2026 health registry",
+          "https://apps.msdh.ms.gov/food/FacilityListingExport.aspx?s_CountyID=36",
+          "Operator at 766 North Lamar"
+        ]
+      ],
+      "eye": [
+        286.5,
+        2.5,
+        -781.5
+      ],
+      "look": [
+        288.63,
+        2.1,
+        -769.95
+      ],
+      "fov": 61,
+      "sha256": "d3ac9a07c0db0a793803e3d66ecce73f7eb8b7cb603ca9348da4aec1c3ab5669",
+      "assetSHA256": "c95ba8a3acdc541e0da6ec04788cf479dfedbdd26a0e84866059193b5cbf0cd8",
+      "prim": 29,
+      "triangles": 97466,
+      "registered": true,
+      "roofMeshes": [
+        {
+          "width": 512,
+          "height": 512,
+          "flipY": false,
+          "uvs": 768,
+          "uploaded": true
+        }
+      ],
+      "uvRegistration": null,
+      "actualEye": [
+        286.5,
+        152.698125,
+        -781.5
+      ],
+      "normalUnchanged": true,
+      "groupVisible": true,
+      "errors": []
+    },
+    {
+      "id": "good-day-caf-detail",
+      "name": "Good Day Café · oblique detail",
+      "kind": "storefronts",
+      "tile": "0_-2",
+      "file": "images/good-day-caf-detail.jpg",
+      "focus": [
+        288.63,
+        -769.95
+      ],
+      "anchors": [
+        [
+          "598636248",
+          [
+            282.87,
+            -766.42
+          ]
+        ]
+      ],
+      "notes": [
+        "two charcoal-framed roll-up glass bays",
+        "charcoal street wall",
+        "cream roof band",
+        "Good Day window lettering"
+      ],
+      "references": [
+        [
+          "operator",
+          "https://www.gooddayoxford.com/",
+          "Operator confirms current 766 North Lamar address; inventory formerly Oxford Canteen/768"
+        ],
+        [
+          "operator photo",
+          "https://tock-public.imgix.net/imagesprod/user_uploaded_images_v1/7532ed36-be17-4d9d-9dd4-356012d84e29.jpg",
+          "Through operator reservation page, garage elevations"
+        ],
+        [
+          "exterior",
+          "https://nroxford.com/neighborhood-blog/neighborhood-business-highlight-good-day-cafe",
+          "Street-level storefront and window lettering"
+        ],
+        [
+          "2026 health registry",
+          "https://apps.msdh.ms.gov/food/FacilityListingExport.aspx?s_CountyID=36",
+          "Operator at 766 North Lamar"
+        ]
+      ],
+      "eye": [
+        291,
+        2.3,
+        -777.5
+      ],
+      "look": [
+        289.8,
+        2.1,
+        -770.7
+      ],
+      "fov": 49,
+      "optional": true,
+      "sha256": "2029771ac19eb612289239f802b6c5bc3cdd6d0e4b0cdf56ace8ce7f2689a5dc",
+      "assetSHA256": "c95ba8a3acdc541e0da6ec04788cf479dfedbdd26a0e84866059193b5cbf0cd8",
+      "prim": 29,
+      "triangles": 97466,
+      "registered": true,
+      "roofMeshes": [
+        {
+          "width": 512,
+          "height": 512,
+          "flipY": false,
+          "uvs": 768,
+          "uploaded": true
+        }
+      ],
+      "uvRegistration": null,
+      "actualEye": [
+        291,
+        152.62125,
+        -777.5
+      ],
+      "normalUnchanged": true,
+      "groupVisible": true,
+      "errors": []
+    },
+    {
+      "id": "volta-taverna",
+      "name": "Volta Taverna",
+      "kind": "storefronts",
+      "tile": "0_-2",
+      "file": "images/volta-taverna.jpg",
+      "focus": [
+        215.14,
+        -714.62
+      ],
+      "anchors": [
+        [
+          "598636368",
+          [
+            204.29,
+            -707.35
+          ]
+        ]
+      ],
+      "notes": [
+        "blue Greek-key band",
+        "cream vertical siding",
+        "two glazed service bays",
+        "covered dining deck with blue posts"
+      ],
+      "references": [
+        [
+          "operator",
+          "https://www.voltataverna.com/",
+          "Current address, garage doors and patio"
+        ],
+        [
+          "exterior",
+          "https://static.goto-where.com/24733-albums-1.jpg",
+          "Undated close exterior, motif and window registration"
+        ]
+      ],
+      "eye": [
+        210.64,
+        3.146,
+        -739.29
+      ],
+      "look": [
+        215.14,
+        2.1,
+        -714.62
+      ],
+      "fov": 52,
+      "sha256": "e95baecea805b9e6ff25271b3113884c078de177792d22f37ff53eb91ccec0f1",
+      "assetSHA256": "c95ba8a3acdc541e0da6ec04788cf479dfedbdd26a0e84866059193b5cbf0cd8",
+      "prim": 29,
+      "triangles": 97466,
+      "registered": true,
+      "roofMeshes": [
+        {
+          "width": 512,
+          "height": 512,
+          "flipY": false,
+          "uvs": 768,
+          "uploaded": true
+        }
+      ],
+      "uvRegistration": null,
+      "actualEye": [
+        210.64,
+        154.82148750000002,
+        -739.29
+      ],
+      "normalUnchanged": true,
+      "groupVisible": true,
+      "errors": []
+    },
+    {
+      "id": "volta-taverna-detail",
+      "name": "Volta Taverna · oblique detail",
+      "kind": "storefronts",
+      "tile": "0_-2",
+      "file": "images/volta-taverna-detail.jpg",
+      "focus": [
+        215.14,
+        -714.62
+      ],
+      "anchors": [
+        [
+          "598636368",
+          [
+            204.29,
+            -707.35
+          ]
+        ]
+      ],
+      "notes": [
+        "blue Greek-key band",
+        "cream vertical siding",
+        "two glazed service bays",
+        "covered dining deck with blue posts"
+      ],
+      "references": [
+        [
+          "operator",
+          "https://www.voltataverna.com/",
+          "Current address, garage doors and patio"
+        ],
+        [
+          "exterior",
+          "https://static.goto-where.com/24733-albums-1.jpg",
+          "Undated close exterior, motif and window registration"
+        ]
+      ],
+      "eye": [
+        188,
+        2.7,
+        -686
+      ],
+      "look": [
+        210,
+        3,
+        -705
+      ],
+      "fov": 48,
+      "optional": true,
+      "sha256": "9040a7677fb38fddeedbfd277ad5b9dd9b92277a900768f28e3d47948a18cf65",
+      "assetSHA256": "c95ba8a3acdc541e0da6ec04788cf479dfedbdd26a0e84866059193b5cbf0cd8",
+      "prim": 29,
+      "triangles": 97466,
+      "registered": true,
+      "roofMeshes": [
+        {
+          "width": 512,
+          "height": 512,
+          "flipY": false,
+          "uvs": 768,
+          "uploaded": true
+        }
+      ],
+      "uvRegistration": null,
+      "actualEye": [
+        188,
+        157.29,
+        -686
+      ],
+      "normalUnchanged": true,
+      "groupVisible": true,
+      "errors": []
+    },
+    {
+      "id": "guthrie-s",
+      "name": "Guthrie's",
+      "kind": "storefronts",
+      "tile": "0_0",
+      "file": "images/guthrie-s.jpg",
+      "focus": [
+        289.52,
+        394
+      ],
+      "anchors": [
+        [
+          "1094538042",
+          [
+            275.31,
+            414.26
+          ]
+        ]
+      ],
+      "notes": [
+        "two red rectangular entry piers",
+        "upper gray/beige panel alternation",
+        "projecting red awnings",
+        "three front and four return glazing bays"
+      ],
+      "references": [
+        [
+          "city approval",
+          "https://oxfordms.net/documents/boards/planning/minutebooks/Book08.pdf",
+          "Oxford location and case 2819-A"
+        ],
+        [
+          "exterior",
+          "https://joe.coffee/locations/ms/oxford/guthries-chicken-oxford-ms-oxford/",
+          "1506 University Avenue and precise Oxford oblique exterior"
+        ],
+        [
+          "photo",
+          "https://pub-ba1a74be17d7442a9f2541946eb9510e.r2.dev/shops/dad0bfd7-cfc2-4fe9-a611-e4b6cd397b2c/3.jpg",
+          "Night exterior, storefront windows and awnings"
+        ]
+      ],
+      "eye": [
+        293.07,
+        2.65,
+        378.43
+      ],
+      "look": [
+        289.52,
+        2.149,
+        394
+      ],
+      "fov": 52,
+      "sha256": "68e7603d0cb626586e44637be1f7de4e4777e2128a135294a8e7b29130079079",
+      "assetSHA256": "d94404159077246dad121217f56a6c79fdac1e71148df4ed2e8dee4bc19adfbb",
+      "prim": 24,
+      "triangles": 300604,
+      "registered": true,
+      "roofMeshes": [
+        {
+          "width": 1024,
+          "height": 1024,
+          "flipY": false,
+          "uvs": 1853,
+          "uploaded": true
+        }
+      ],
+      "uvRegistration": null,
+      "actualEye": [
+        293.07,
+        140.1943,
+        378.43
+      ],
+      "normalUnchanged": true,
+      "groupVisible": true,
+      "errors": []
+    },
+    {
+      "id": "guthrie-s-detail",
+      "name": "Guthrie's · oblique detail",
+      "kind": "storefronts",
+      "tile": "0_0",
+      "file": "images/guthrie-s-detail.jpg",
+      "focus": [
+        289.52,
+        394
+      ],
+      "anchors": [
+        [
+          "1094538042",
+          [
+            275.31,
+            414.26
+          ]
+        ]
+      ],
+      "notes": [
+        "two red rectangular entry piers",
+        "upper gray/beige panel alternation",
+        "projecting red awnings",
+        "three front and four return glazing bays"
+      ],
+      "references": [
+        [
+          "city approval",
+          "https://oxfordms.net/documents/boards/planning/minutebooks/Book08.pdf",
+          "Oxford location and case 2819-A"
+        ],
+        [
+          "exterior",
+          "https://joe.coffee/locations/ms/oxford/guthries-chicken-oxford-ms-oxford/",
+          "1506 University Avenue and precise Oxford oblique exterior"
+        ],
+        [
+          "photo",
+          "https://pub-ba1a74be17d7442a9f2541946eb9510e.r2.dev/shops/dad0bfd7-cfc2-4fe9-a611-e4b6cd397b2c/3.jpg",
+          "Night exterior, storefront windows and awnings"
+        ]
+      ],
+      "eye": [
+        289.1314,
+        2.5,
+        382.7734
+      ],
+      "look": [
+        289.52,
+        2.149,
+        394
+      ],
+      "fov": 45,
+      "optional": true,
+      "sha256": "a7bcc1c964828b7a220d19ca8ed84bd78b57b02489dfff8d6973a6a60e23c078",
+      "assetSHA256": "d94404159077246dad121217f56a6c79fdac1e71148df4ed2e8dee4bc19adfbb",
+      "prim": 24,
+      "triangles": 300604,
+      "registered": true,
+      "roofMeshes": [
+        {
+          "width": 1024,
+          "height": 1024,
+          "flipY": false,
+          "uvs": 1853,
+          "uploaded": true
+        }
+      ],
+      "uvRegistration": null,
+      "actualEye": [
+        289.1314,
+        140.3364265,
+        382.7734
+      ],
+      "normalUnchanged": true,
+      "groupVisible": true,
+      "errors": []
+    },
+    {
+      "id": "oby-s",
+      "name": "Oby's",
+      "kind": "storefronts",
+      "tile": "1_0",
+      "file": "images/oby-s.jpg",
+      "focus": [
+        959.66,
+        482.34
+      ],
+      "anchors": [
+        [
+          "321045196",
+          [
+            947.32,
+            480.45
+          ]
+        ]
+      ],
+      "notes": [
+        "eight tall front panes with projecting dark shutters",
+        "two brick parapet towers",
+        "cream arch/parapet",
+        "oval sign and black entrance canopy",
+        "brick-pillared iron frontage railing"
+      ],
+      "references": [
+        [
+          "exterior",
+          "https://joe.coffee/locations/ms/oxford/obys-of-oxford-oxford/",
+          "Address and recent undated near-frontal photograph"
+        ],
+        [
+          "photo",
+          "https://pub-ba1a74be17d7442a9f2541946eb9510e.r2.dev/shops/4952d401-b03d-44fa-b573-bfea503adffd/4.jpg",
+          "Eight panes, metal canopy, parapets and sign"
+        ]
+      ],
+      "eye": [
+        957.33,
+        3.1,
+        504.22
+      ],
+      "look": [
+        959.66,
+        2.101,
+        482.34
+      ],
+      "fov": 52,
+      "sha256": "1536712e22734ff0e176c4be56c620f7a4651370b9be00f07a45af14b0707f2f",
+      "assetSHA256": "310d29bd5a31949629655aaed276410882cb0b26baddca89287824a043c4797e",
+      "prim": 22,
+      "triangles": 223402,
+      "registered": true,
+      "roofMeshes": [
+        {
+          "width": 1024,
+          "height": 1024,
+          "flipY": false,
+          "uvs": 1706,
+          "uploaded": true
+        }
+      ],
+      "uvRegistration": null,
+      "actualEye": [
+        957.33,
+        133.73286249999998,
+        504.22
+      ],
+      "normalUnchanged": true,
+      "groupVisible": true,
+      "errors": []
+    },
+    {
+      "id": "oby-s-detail",
+      "name": "Oby's · oblique detail",
+      "kind": "storefronts",
+      "tile": "1_0",
+      "file": "images/oby-s-detail.jpg",
+      "focus": [
+        959.66,
+        482.34
+      ],
+      "anchors": [
+        [
+          "321045196",
+          [
+            947.32,
+            480.45
+          ]
+        ]
+      ],
+      "notes": [
+        "eight tall front panes with projecting dark shutters",
+        "two brick parapet towers",
+        "cream arch/parapet",
+        "oval sign and black entrance canopy",
+        "brick-pillared iron frontage railing"
+      ],
+      "references": [
+        [
+          "exterior",
+          "https://joe.coffee/locations/ms/oxford/obys-of-oxford-oxford/",
+          "Address and recent undated near-frontal photograph"
+        ],
+        [
+          "photo",
+          "https://pub-ba1a74be17d7442a9f2541946eb9510e.r2.dev/shops/4952d401-b03d-44fa-b573-bfea503adffd/4.jpg",
+          "Eight panes, metal canopy, parapets and sign"
+        ]
+      ],
+      "eye": [
+        962.014,
+        2.95,
+        497.6378
+      ],
+      "look": [
+        959.66,
+        2.101,
+        482.34
+      ],
+      "fov": 45,
+      "optional": true,
+      "sha256": "1561db9adf4b36ad6edef717734cbebde3b723209f1be4092ed3f5039825d3f1",
+      "assetSHA256": "310d29bd5a31949629655aaed276410882cb0b26baddca89287824a043c4797e",
+      "prim": 22,
+      "triangles": 223402,
+      "registered": true,
+      "roofMeshes": [
+        {
+          "width": 1024,
+          "height": 1024,
+          "flipY": false,
+          "uvs": 1706,
+          "uploaded": true
+        }
+      ],
+      "uvRegistration": null,
+      "actualEye": [
+        962.014,
+        133.87975724999995,
+        497.6378
+      ],
+      "normalUnchanged": true,
+      "groupVisible": true,
+      "errors": []
+    },
+    {
+      "id": "oxford-high",
+      "name": "Oxford High School",
+      "kind": "schools",
+      "eye": [
+        2867,
+        2.8,
+        -635
+      ],
+      "look": [
+        2885,
+        4,
+        -663
+      ],
+      "fov": 54,
+      "tile": "5_-2",
+      "file": "images/oxford-high.jpg",
+      "focus": [
+        2886.15,
+        -686.59
+      ],
+      "anchors": [
+        [
+          "598588249",
+          [
+            2796.02,
+            -707.14
+          ]
+        ],
+        [
+          "1486533054",
+          [
+            2813.59,
+            -755.13
+          ]
+        ],
+        [
+          "1486533056",
+          [
+            2921.72,
+            -756.65
+          ]
+        ],
+        [
+          "1243705430",
+          [
+            2752.46,
+            -877.84
+          ]
+        ],
+        [
+          "1486533055",
+          [
+            2813.92,
+            -861.63
+          ]
+        ],
+        [
+          "1486533131",
+          [
+            2893.68,
+            -806.26
+          ]
+        ],
+        [
+          "1486533132",
+          [
+            2904.49,
+            -815.39
+          ]
+        ]
+      ],
+      "sha256": "2754a3ac66a9362bc228bc5a2753f398a4666e157de24afb1d65d6bed3aba8d8",
+      "assetSHA256": "511d2735f0411c2b22ed7b6248b5f4929bddace320bcdfd289332d35e2df50a0",
+      "prim": 24,
+      "triangles": 55656,
+      "registered": true,
+      "roofMeshes": [],
+      "uvRegistration": null,
+      "actualEye": [
+        2867,
+        160.37125,
+        -635
+      ],
+      "normalUnchanged": true,
+      "groupVisible": true,
+      "errors": []
+    },
+    {
+      "id": "central-elementary",
+      "name": "Central Elementary School",
+      "kind": "schools",
+      "eye": [
+        -548,
+        2.55,
+        -551
+      ],
+      "look": [
+        -553,
+        3.5,
+        -515
+      ],
+      "fov": 54,
+      "tile": "-2_-1",
+      "file": "images/central-elementary.jpg",
+      "focus": [
+        -578.84,
+        -470.88
+      ],
+      "anchors": [
+        [
+          "856515420",
+          [
+            -621.67,
+            -439.48
+          ]
+        ]
+      ],
+      "sha256": "4944c8cabce140080e63dd9148a751b3ed419abdd2e8199eefef585c60b847a1",
+      "assetSHA256": "64656571e53d984eb079b22e882037b6fc29267eb8c03e00ebb5ea4a0be9d692",
+      "prim": 17,
+      "triangles": 18856,
+      "registered": true,
+      "roofMeshes": [],
+      "uvRegistration": null,
+      "actualEye": [
+        -548,
+        139.34,
+        -551
+      ],
+      "normalUnchanged": true,
+      "groupVisible": true,
+      "errors": []
+    },
+    {
+      "id": "bramlett-elementary",
+      "name": "Bramlett Elementary School",
+      "kind": "schools",
+      "eye": [
+        892,
+        5.1,
+        -137
+      ],
+      "look": [
+        856,
+        2.7,
+        -128
+      ],
+      "fov": 54,
+      "tile": "1_-1",
+      "file": "images/bramlett-elementary.jpg",
+      "focus": [
+        832.26,
+        -148.73
+      ],
+      "anchors": [
+        [
+          "317684186",
+          [
+            804.63,
+            -173.79
+          ]
+        ],
+        [
+          "317684187",
+          [
+            763.88,
+            -122.07
+          ]
+        ],
+        [
+          "1337596599",
+          [
+            737.58,
+            -150.33
+          ]
+        ]
+      ],
+      "sha256": "ccab61a4722118a303398607519253ebcc722d84a65a5f1af065261a90e6b238",
+      "assetSHA256": "7f75feb14b5f984b9658ab701497b66f3d9a69bd12c65a73d023e44b9afb29f3",
+      "prim": 20,
+      "triangles": 9241,
+      "registered": true,
+      "roofMeshes": [],
+      "uvRegistration": null,
+      "actualEye": [
+        892,
+        146.93125,
+        -137
+      ],
+      "normalUnchanged": true,
+      "groupVisible": true,
+      "errors": []
+    },
+    {
+      "id": "della-davidson",
+      "name": "Della Davidson Elementary School",
+      "kind": "schools",
+      "eye": [
+        2149,
+        3.35,
+        -434
+      ],
+      "look": [
+        2183,
+        2.85,
+        -427
+      ],
+      "fov": 54,
+      "tile": "4_-1",
+      "file": "images/della-davidson.jpg",
+      "focus": [
+        2212.42,
+        -425.59
+      ],
+      "anchors": [
+        [
+          "247507070",
+          [
+            2160.89,
+            -505.02
+          ]
+        ]
+      ],
+      "sha256": "b036cad9399bc93a34a781b989e33e53a04a949c18f4f9cce6dbc608ff6a4847",
+      "assetSHA256": "5a0de9ebfc3eae7391b37fd73c7f535c148b2b6da3ced570630587c4e8165a22",
+      "prim": 16,
+      "triangles": 13149,
+      "registered": true,
+      "roofMeshes": [],
+      "uvRegistration": null,
+      "actualEye": [
+        2149,
+        149.21125,
+        -434
+      ],
+      "normalUnchanged": true,
+      "groupVisible": true,
+      "errors": []
+    },
+    {
+      "id": "south-grove",
+      "name": "South Grove · Magnolia Court",
+      "kind": "housing",
+      "eye": [
+        -550,
+        3.1,
+        4893
+      ],
+      "look": [
+        -514,
+        2.5,
+        4913
+      ],
+      "tile": "-2_9",
+      "file": "images/south-grove.jpg",
+      "focus": [
+        -533,
+        4907
+      ],
+      "anchors": [
+        [
+          "-23911313575",
+          [
+            -532.75,
+            4892.75
+          ],
+          "naip25-south-grove-magnolia-west-01"
+        ],
+        [
+          "-21486622511",
+          [
+            -534,
+            4907.5
+          ],
+          "naip25-south-grove-magnolia-west-02"
+        ],
+        [
+          "-23180422718",
+          [
+            -534.75,
+            4922.5
+          ],
+          "naip25-south-grove-magnolia-west-03"
+        ],
+        [
+          "-22161334421",
+          [
+            -536,
+            4937.75
+          ],
+          "naip25-south-grove-magnolia-west-04"
+        ],
+        [
+          "-22209191111",
+          [
+            -536.75,
+            4953
+          ],
+          "naip25-south-grove-magnolia-west-05"
+        ],
+        [
+          "-23681902150",
+          [
+            -537.75,
+            4968.5
+          ],
+          "naip25-south-grove-magnolia-west-06"
+        ],
+        [
+          "-20720087002",
+          [
+            -538.5,
+            4983.25
+          ],
+          "naip25-south-grove-magnolia-west-07"
+        ],
+        [
+          "-22704212331",
+          [
+            -539.25,
+            4998.25
+          ],
+          "naip25-south-grove-magnolia-west-08"
+        ],
+        [
+          "-21232723410",
+          [
+            -540.25,
+            5012.75
+          ],
+          "naip25-south-grove-magnolia-west-09"
+        ],
+        [
+          "-22421937292",
+          [
+            -534.5,
+            5077.75
+          ],
+          "naip25-south-grove-cottage-front-01"
+        ],
+        [
+          "-20588789186",
+          [
+            -537.75,
+            5090.5
+          ],
+          "naip25-south-grove-cottage-front-02"
+        ],
+        [
+          "-23381388432",
+          [
+            -540.25,
+            5103.25
+          ],
+          "naip25-south-grove-cottage-front-03"
+        ]
+      ],
+      "fov": 54,
+      "sha256": "0b8e6554c1deb7432d4aaab6ae94e67c6af12a781d3717cb2b4138876cd38534",
+      "assetSHA256": "7651933fe5749347c87fd6c67e8f300513d62fa5769c7fef7f583d4c81dff897",
+      "prim": 13,
+      "triangles": 31131,
+      "registered": true,
+      "roofMeshes": [
+        {
+          "width": 256,
+          "height": 256,
+          "flipY": false,
+          "uvs": 555,
+          "uploaded": true
+        }
+      ],
+      "uvRegistration": null,
+      "actualEye": [
+        -550,
+        143.35,
+        4893
+      ],
+      "normalUnchanged": true,
+      "groupVisible": true,
+      "errors": []
+    },
+    {
+      "id": "south-grove-overview",
+      "name": "South Grove · roof and street layout",
+      "kind": "housing",
+      "eye": [
+        -634,
+        73,
+        4861
+      ],
+      "look": [
+        -481,
+        5,
+        5000
+      ],
+      "tile": "-1_9",
+      "file": "images/south-grove-overview.jpg",
+      "focus": [
+        -485,
+        5000
+      ],
+      "anchors": [
+        [
+          "-20546387283",
+          [
+            -496.75,
+            4893.75
+          ],
+          "naip25-south-grove-magnolia-east-01"
+        ],
+        [
+          "-23632749258",
+          [
+            -497.75,
+            4908.5
+          ],
+          "naip25-south-grove-magnolia-east-02"
+        ],
+        [
+          "-22043624879",
+          [
+            -498.75,
+            4923.75
+          ],
+          "naip25-south-grove-magnolia-east-03"
+        ],
+        [
+          "-22137671114",
+          [
+            -499.75,
+            4939.25
+          ],
+          "naip25-south-grove-magnolia-east-04"
+        ],
+        [
+          "-22170683265",
+          [
+            -500.5,
+            4954
+          ],
+          "naip25-south-grove-magnolia-east-05"
+        ],
+        [
+          "-21338165181",
+          [
+            -501.5,
+            4969.5
+          ],
+          "naip25-south-grove-magnolia-east-06"
+        ],
+        [
+          "-23231519334",
+          [
+            -502.75,
+            4984.25
+          ],
+          "naip25-south-grove-magnolia-east-07"
+        ],
+        [
+          "-20889481752",
+          [
+            -503.5,
+            4999.75
+          ],
+          "naip25-south-grove-magnolia-east-08"
+        ],
+        [
+          "-21931573319",
+          [
+            -357,
+            4904.5
+          ],
+          "naip25-south-grove-phase-east-02"
+        ],
+        [
+          "-24194719497",
+          [
+            -358.75,
+            4921.5
+          ],
+          "naip25-south-grove-phase-east-03"
+        ],
+        [
+          "-21608906159",
+          [
+            -360.75,
+            4937.75
+          ],
+          "naip25-south-grove-phase-east-04"
+        ],
+        [
+          "-21989522802",
+          [
+            -362.5,
+            4952.75
+          ],
+          "naip25-south-grove-phase-east-05"
+        ],
+        [
+          "-22223807302",
+          [
+            -364.5,
+            4968.25
+          ],
+          "naip25-south-grove-phase-east-06"
+        ],
+        [
+          "-20594050723",
+          [
+            -366.5,
+            4982.75
+          ],
+          "naip25-south-grove-phase-east-07"
+        ],
+        [
+          "-20764107219",
+          [
+            -369,
+            5006.25
+          ],
+          "naip25-south-grove-phase-east-08"
+        ],
+        [
+          "-20352602699",
+          [
+            -371,
+            5021
+          ],
+          "naip25-south-grove-phase-east-09"
+        ],
+        [
+          "-22980953845",
+          [
+            -428.25,
+            5022
+          ],
+          "naip25-south-grove-rosewood-north-01"
+        ],
+        [
+          "-21297500556",
+          [
+            -380.75,
+            5042
+          ],
+          "naip25-south-grove-rosewood-north-02"
+        ],
+        [
+          "-23101187484",
+          [
+            -348.75,
+            5056.25
+          ],
+          "naip25-south-grove-rosewood-north-03"
+        ],
+        [
+          "-20879706090",
+          [
+            -487.5,
+            5036
+          ],
+          "naip25-south-grove-row-a-01"
+        ],
+        [
+          "-22130113195",
+          [
+            -448.5,
+            5051.75
+          ],
+          "naip25-south-grove-row-a-02"
+        ],
+        [
+          "-20816345347",
+          [
+            -409.5,
+            5068.5
+          ],
+          "naip25-south-grove-row-a-03"
+        ],
+        [
+          "-20711945055",
+          [
+            -370.25,
+            5085
+          ],
+          "naip25-south-grove-row-a-04"
+        ],
+        [
+          "-22801152625",
+          [
+            -501.5,
+            5048.5
+          ],
+          "naip25-south-grove-row-b-01"
+        ],
+        [
+          "-20032297193",
+          [
+            -485.75,
+            5054.75
+          ],
+          "naip25-south-grove-row-b-02"
+        ],
+        [
+          "-22975958151",
+          [
+            -449.25,
+            5069.5
+          ],
+          "naip25-south-grove-row-b-03"
+        ],
+        [
+          "-21822639828",
+          [
+            -410.25,
+            5086.75
+          ],
+          "naip25-south-grove-row-b-04"
+        ],
+        [
+          "-23897029938",
+          [
+            -495.25,
+            5086.75
+          ],
+          "naip25-south-grove-row-c-west"
+        ],
+        [
+          "-22140645201",
+          [
+            -480.25,
+            5096.75
+          ],
+          "naip25-south-grove-row-c-01"
+        ],
+        [
+          "-21462200599",
+          [
+            -375,
+            4698.5
+          ],
+          "naip25-south-grove-n-curve-north-01"
+        ],
+        [
+          "-22082147401",
+          [
+            -357.5,
+            4710.5
+          ],
+          "naip25-south-grove-n-curve-north-02"
+        ],
+        [
+          "-20495234827",
+          [
+            -345,
+            4725
+          ],
+          "naip25-south-grove-n-curve-north-03"
+        ],
+        [
+          "-20598081922",
+          [
+            -337,
+            4742.5
+          ],
+          "naip25-south-grove-n-curve-north-04"
+        ],
+        [
+          "-22673466055",
+          [
+            -340.75,
+            4767
+          ],
+          "naip25-south-grove-n-curve-east-01"
+        ],
+        [
+          "-23069438949",
+          [
+            -338,
+            4782.25
+          ],
+          "naip25-south-grove-n-curve-east-02"
+        ],
+        [
+          "-21190531782",
+          [
+            -340.25,
+            4800.25
+          ],
+          "naip25-south-grove-n-curve-east-03"
+        ],
+        [
+          "-20506040358",
+          [
+            -343,
+            4814
+          ],
+          "naip25-south-grove-n-curve-east-04"
+        ],
+        [
+          "-24262244732",
+          [
+            -345.5,
+            4828.75
+          ],
+          "naip25-south-grove-n-curve-east-05"
+        ],
+        [
+          "-22718862280",
+          [
+            -348,
+            4843.5
+          ],
+          "naip25-south-grove-n-curve-east-06"
+        ],
+        [
+          "-23203289064",
+          [
+            -351,
+            4859.5
+          ],
+          "naip25-south-grove-n-curve-east-07"
+        ],
+        [
+          "-20864381159",
+          [
+            -353.5,
+            4873.5
+          ],
+          "naip25-south-grove-n-curve-east-08"
+        ],
+        [
+          "-22712980774",
+          [
+            -356.25,
+            4888.5
+          ],
+          "naip25-south-grove-n-curve-east-09"
+        ],
+        [
+          "-22942977129",
+          [
+            -381.75,
+            4778.25
+          ],
+          "naip25-south-grove-n-curve-west-01"
+        ],
+        [
+          "-24123791817",
+          [
+            -383.25,
+            4793.25
+          ],
+          "naip25-south-grove-n-curve-west-02"
+        ],
+        [
+          "-22160490576",
+          [
+            -386.75,
+            4808.25
+          ],
+          "naip25-south-grove-n-curve-west-03"
+        ],
+        [
+          "-21161464699",
+          [
+            -390.75,
+            4823
+          ],
+          "naip25-south-grove-n-curve-west-04"
+        ],
+        [
+          "-20296074744",
+          [
+            -394.25,
+            4838.75
+          ],
+          "naip25-south-grove-n-curve-west-05"
+        ],
+        [
+          "-24028959927",
+          [
+            -397.75,
+            4853.25
+          ],
+          "naip25-south-grove-n-curve-west-06"
+        ],
+        [
+          "-21787029909",
+          [
+            -400,
+            4867.5
+          ],
+          "naip25-south-grove-n-curve-west-07"
+        ],
+        [
+          "-20934949863",
+          [
+            -404.25,
+            4882.25
+          ],
+          "naip25-south-grove-n-curve-west-08"
+        ]
+      ],
+      "fov": 52,
+      "sha256": "9816ae6c92734f7c0835cb15ee26b2d830b996e41165eb0fdc38b567656c601d",
+      "assetSHA256": "08d29f51b290dc6d855650c78eb255778eb967c675a6aa81dd8eda328027e8b5",
+      "prim": 13,
+      "triangles": 176827,
+      "registered": true,
+      "roofMeshes": [
+        {
+          "width": 1024,
+          "height": 1024,
+          "flipY": false,
+          "uvs": 3122,
+          "uploaded": true
+        }
+      ],
+      "uvRegistration": null,
+      "actualEye": [
+        -634,
+        201.79375,
+        4861
+      ],
+      "normalUnchanged": true,
+      "groupVisible": true,
+      "errors": []
+    },
+    {
+      "id": "south-grove-cottages",
+      "name": "South Grove · roadside cottages",
+      "kind": "housing",
+      "eye": [
+        -559,
+        5.3,
+        5125
+      ],
+      "look": [
+        -529,
+        2.5,
+        5137
+      ],
+      "tile": "-2_10",
+      "file": "images/south-grove-cottages.jpg",
+      "focus": [
+        -535,
+        5135
+      ],
+      "anchors": [
+        [
+          "-20104803895",
+          [
+            -542.5,
+            5116.75
+          ],
+          "naip25-south-grove-cottage-front-04"
+        ],
+        [
+          "-22414394244",
+          [
+            -543.25,
+            5129
+          ],
+          "naip25-south-grove-cottage-front-05"
+        ],
+        [
+          "-23149982472",
+          [
+            -521.75,
+            5138.5
+          ],
+          "naip25-south-grove-row-e-01"
+        ]
+      ],
+      "fov": 52,
+      "sha256": "21ed8507974219d3c810f8026876798dd0130df65aa9189e8fbe116aed0e2180",
+      "assetSHA256": "1281e609cba05e4d3e2f07a9f8b63119dfcfe905730ffc250e6c6cb4f29c9268",
+      "prim": 13,
+      "triangles": 33952,
+      "registered": true,
+      "roofMeshes": [
+        {
+          "width": 256,
+          "height": 256,
+          "flipY": false,
+          "uvs": 838,
+          "uploaded": true
+        }
+      ],
+      "uvRegistration": null,
+      "actualEye": [
+        -559,
+        142.925,
+        5125
+      ],
+      "normalUnchanged": true,
+      "groupVisible": true,
+      "errors": []
+    },
+    {
+      "id": "south-grove-attached",
+      "name": "South Grove · attached rows",
+      "kind": "housing",
+      "eye": [
+        -530,
+        47,
+        5111
+      ],
+      "look": [
+        -415,
+        3.9,
+        5187
+      ],
+      "tile": "-1_10",
+      "file": "images/south-grove-attached.jpg",
+      "focus": [
+        -425,
+        5191
+      ],
+      "anchors": [
+        [
+          "-23010676845",
+          [
+            -371.5,
+            5103.75
+          ],
+          "naip25-south-grove-row-b-05"
+        ],
+        [
+          "-22187400646",
+          [
+            -442,
+            5113.75
+          ],
+          "naip25-south-grove-row-c-02"
+        ],
+        [
+          "-22828817592",
+          [
+            -402.25,
+            5130.75
+          ],
+          "naip25-south-grove-row-c-03"
+        ],
+        [
+          "-22074007499",
+          [
+            -365,
+            5145.75
+          ],
+          "naip25-south-grove-row-c-04"
+        ],
+        [
+          "-20713968160",
+          [
+            -488,
+            5114.25
+          ],
+          "naip25-south-grove-row-d-01"
+        ],
+        [
+          "-20178530350",
+          [
+            -449.75,
+            5130.5
+          ],
+          "naip25-south-grove-row-d-02"
+        ],
+        [
+          "-20093407273",
+          [
+            -411,
+            5146.75
+          ],
+          "naip25-south-grove-row-d-03"
+        ],
+        [
+          "-23097455923",
+          [
+            -372.25,
+            5162.5
+          ],
+          "naip25-south-grove-row-d-04"
+        ],
+        [
+          "-20378077772",
+          [
+            -498.5,
+            5148
+          ],
+          "naip25-south-grove-row-e-02"
+        ],
+        [
+          "-23462434887",
+          [
+            -458.5,
+            5160
+          ],
+          "naip25-south-grove-row-f-west"
+        ],
+        [
+          "-24140006619",
+          [
+            -433,
+            5178
+          ],
+          "naip25-south-grove-row-f-01"
+        ],
+        [
+          "-24064384377",
+          [
+            -391.5,
+            5194.5
+          ],
+          "naip25-south-grove-row-f-02"
+        ],
+        [
+          "-22954302939",
+          [
+            -439,
+            5193.25
+          ],
+          "naip25-south-grove-row-g-01"
+        ],
+        [
+          "-22496248912",
+          [
+            -394.25,
+            5210.5
+          ],
+          "naip25-south-grove-s-row-g-02"
+        ],
+        [
+          "-20779080644",
+          [
+            -474.25,
+            5218.25
+          ],
+          "naip25-south-grove-s-row-h-01"
+        ],
+        [
+          "-22418980918",
+          [
+            -435.5,
+            5237.25
+          ],
+          "naip25-south-grove-s-row-h-02"
+        ],
+        [
+          "-24194473575",
+          [
+            -396,
+            5259.25
+          ],
+          "naip25-south-grove-s-row-h-03"
+        ]
+      ],
+      "fov": 50,
+      "sha256": "c1b5dff61f0a323f056b935b82b0ac2d8098818afd436d0b5ea129693f231833",
+      "assetSHA256": "aebe7b167f0cd24b77882eaa7bfa21706ea140f99157b0eeaff9b9b898f6498d",
+      "prim": 14,
+      "triangles": 96826,
+      "registered": true,
+      "roofMeshes": [
+        {
+          "width": 512,
+          "height": 512,
+          "flipY": false,
+          "uvs": 1655,
+          "uploaded": true
+        }
+      ],
+      "uvRegistration": null,
+      "actualEye": [
+        -530,
+        180.89375,
+        5111
+      ],
+      "normalUnchanged": true,
+      "groupVisible": true,
+      "errors": []
+    },
+    {
+      "id": "square-roof",
+      "name": "FNB Oxford · Courthouse Square",
+      "kind": "roofs",
+      "eye": [
+        51,
+        50,
+        16
+      ],
+      "look": [
+        29,
+        11,
+        -35
+      ],
+      "tile": "0_-1",
+      "file": "images/square-roof.jpg",
+      "focus": [
+        28,
+        -35
+      ],
+      "patch": "0_-1_451755569_1",
+      "fov": 43,
+      "sha256": "ce34260bef747b699746dde7e6e36b1fc30b6a061bcc4e887307dd8d31a89afe",
+      "assetSHA256": "198739de6a8feca160462bf4b33be3473d06ead7bc61c370660eb949ecd979c2",
+      "prim": 15,
+      "triangles": 159152,
+      "registered": true,
+      "roofMeshes": [
+        {
+          "width": 512,
+          "height": 512,
+          "flipY": false,
+          "uvs": 769,
+          "uploaded": true
+        }
+      ],
+      "uvRegistration": {
+        "vertexCount": 11,
+        "maxM": 0.036454410586722975,
+        "meanM": 0.019211382316342073,
+        "positions": [
+          {
+            "decodedWorldXZ": [
+              54.088064897361264,
+              -40.456539880157266
+            ],
+            "registeredWorldXZ": [
+              54.10442069123369,
+              -40.45650080109864
+            ]
+          },
+          {
+            "decodedWorldXZ": [
+              16.49279303141362,
+              -7.1287911564378135
+            ],
+            "registeredWorldXZ": [
+              16.504003204394596,
+              -7.111929503318827
+            ]
+          },
+          {
+            "decodedWorldXZ": [
+              45.51730712217491,
+              -0.8882081513802689
+            ],
+            "registeredWorldXZ": [
+              45.54350881208515,
+              -0.9135536736095133
+            ]
+          }
+        ]
+      },
+      "actualEye": [
+        51,
+        206.09,
+        16
+      ],
+      "normalUnchanged": true,
+      "groupVisible": true,
+      "errors": []
+    },
+    {
+      "id": "campus-roof",
+      "name": "Fulton Chapel · Ole Miss",
+      "kind": "roofs",
+      "eye": [
+        -1496,
+        52,
+        11
+      ],
+      "look": [
+        -1528,
+        12,
+        -17
+      ],
+      "tile": "-3_-1",
+      "file": "images/campus-roof.jpg",
+      "focus": [
+        -1529,
+        -18
+      ],
+      "patch": "-3_-1_187869328_1",
+      "fov": 46,
+      "sha256": "a4639ce4b461438bf546ff6402363d8f287b2f5eb1ad71c575f11c024ef394d9",
+      "assetSHA256": "350fe13640b09d13248ffb68d746b2f6c237cec9eb38bbe878d82711626ccfcc",
+      "prim": 13,
+      "triangles": 283958,
+      "registered": true,
+      "roofMeshes": [
+        {
+          "width": 1024,
+          "height": 1024,
+          "flipY": false,
+          "uvs": 1004,
+          "uploaded": true
+        }
+      ],
+      "uvRegistration": {
+        "vertexCount": 14,
+        "maxM": 0.06233768195867543,
+        "meanM": 0.03541112146010588,
+        "positions": [
+          {
+            "decodedWorldXZ": [
+              -1536.2640971880749,
+              -2.735583998254924
+            ],
+            "registeredWorldXZ": [
+              -1536.2239134813458,
+              -2.6879262989242463
+            ]
+          },
+          {
+            "decodedWorldXZ": [
+              -1535.5153310931,
+              -38.70217607755279
+            ],
+            "registeredWorldXZ": [
+              -1535.4889022659647,
+              -38.710038452735176
+            ]
+          },
+          {
+            "decodedWorldXZ": [
+              -1540.5501375937915,
+              -3.329432970131336
+            ],
+            "registeredWorldXZ": [
+              -1540.5289791714351,
+              -3.317935912108041
+            ]
+          }
+        ]
+      },
+      "actualEye": [
+        -1496,
+        206.02125,
+        11
+      ],
+      "normalUnchanged": true,
+      "groupVisible": true,
+      "errors": []
+    },
+    {
+      "id": "campus-roof-detail",
+      "name": "Fulton Chapel · roof close-up",
+      "kind": "roofs",
+      "eye": [
+        -1500,
+        38,
+        -3
+      ],
+      "look": [
+        -1527,
+        12,
+        -18
+      ],
+      "tile": "-3_-1",
+      "file": "images/campus-roof-detail.jpg",
+      "focus": [
+        -1529,
+        -18
+      ],
+      "patch": "-3_-1_187869328_1",
+      "fov": 40,
+      "sha256": "a9c0e7a5583592b8f93178ec99b9e0f63b3c1c2981aef581f47f459bc5529f82",
+      "assetSHA256": "350fe13640b09d13248ffb68d746b2f6c237cec9eb38bbe878d82711626ccfcc",
+      "prim": 13,
+      "triangles": 283958,
+      "registered": true,
+      "roofMeshes": [
+        {
+          "width": 1024,
+          "height": 1024,
+          "flipY": false,
+          "uvs": 1004,
+          "uploaded": true
+        }
+      ],
+      "uvRegistration": {
+        "vertexCount": 14,
+        "maxM": 0.06233768195867543,
+        "meanM": 0.03541112146010588,
+        "positions": [
+          {
+            "decodedWorldXZ": [
+              -1536.2640971880749,
+              -2.735583998254924
+            ],
+            "registeredWorldXZ": [
+              -1536.2239134813458,
+              -2.6879262989242463
+            ]
+          },
+          {
+            "decodedWorldXZ": [
+              -1535.5153310931,
+              -38.70217607755279
+            ],
+            "registeredWorldXZ": [
+              -1535.4889022659647,
+              -38.710038452735176
+            ]
+          },
+          {
+            "decodedWorldXZ": [
+              -1540.5501375937915,
+              -3.329432970131336
+            ],
+            "registeredWorldXZ": [
+              -1540.5289791714351,
+              -3.317935912108041
+            ]
+          }
+        ]
+      },
+      "actualEye": [
+        -1500,
+        191.8925,
+        -3
+      ],
+      "normalUnchanged": true,
+      "groupVisible": true,
+      "errors": []
+    },
+    {
+      "id": "square-roof-larrys",
+      "name": "Proud Larry’s · roof and mosaic frontage",
+      "kind": "roofs",
+      "eye": [
+        -30,
+        20,
+        132
+      ],
+      "look": [
+        -8,
+        4.5,
+        137
+      ],
+      "tile": "-1_0",
+      "file": "images/square-roof-larrys.jpg",
+      "focus": [
+        -5,
+        137
+      ],
+      "patch": "-1_0_599827683_69",
+      "fov": 42,
+      "sha256": "d0d49946b0725d78298c7f3aed151ec512ecd8cc958d147e8f3e1b151d146954",
+      "assetSHA256": "d51d425238047fec7200607457e4a2ef9e256db7edf6f126f68ed0d4bdf0dfed",
+      "prim": 23,
+      "triangles": 253086,
+      "registered": true,
+      "roofMeshes": [
+        {
+          "width": 1024,
+          "height": 1024,
+          "flipY": false,
+          "uvs": 1476,
+          "uploaded": true
+        }
+      ],
+      "uvRegistration": {
+        "vertexCount": 4,
+        "maxM": 0.042134462723735784,
+        "meanM": 0.026387665504148384,
+        "positions": [
+          {
+            "decodedWorldXZ": [
+              3.253596724809597,
+              143.74258195648488
+            ],
+            "registeredWorldXZ": [
+              3.2352996108949412,
+              143.74390386816205
+            ]
+          },
+          {
+            "decodedWorldXZ": [
+              -12.953193737894665,
+              131.20417200523266
+            ],
+            "registeredWorldXZ": [
+              -12.934947127489126,
+              131.24215060654612
+            ]
+          },
+          {
+            "decodedWorldXZ": [
+              -14.715735936756403,
+              140.24615678150712
+            ],
+            "registeredWorldXZ": [
+              -14.719974364843212,
+              140.27885099565117
+            ]
+          }
+        ]
+      },
+      "actualEye": [
+        -30,
+        173.74,
+        132
+      ],
+      "normalUnchanged": true,
+      "groupVisible": true,
+      "errors": []
+    },
+    {
+      "id": "campus-roof-museum",
+      "name": "University of Mississippi Museum · roof and entrance",
+      "kind": "roofs",
+      "eye": [
+        -664,
+        26,
+        251
+      ],
+      "look": [
+        -619,
+        6,
+        259
+      ],
+      "tile": "-2_0",
+      "file": "images/campus-roof-museum.jpg",
+      "focus": [
+        -616,
+        262
+      ],
+      "patch": "-2_0_318264954_5",
+      "fov": 52,
+      "sha256": "ac3263ffc2adaf864ccb9e29734e49c4225f13d4676551ef412a05481549d0a5",
+      "assetSHA256": "b41305927b8aa8a19f5e973b37bcc5bba4a6ae3927e08b161b30a999ab3d55ae",
+      "prim": 18,
+      "triangles": 120497,
+      "registered": true,
+      "roofMeshes": [
+        {
+          "width": 512,
+          "height": 512,
+          "flipY": false,
+          "uvs": 478,
+          "uploaded": true
+        }
+      ],
+      "uvRegistration": {
+        "vertexCount": 22,
+        "maxM": 0.03437022618913867,
+        "meanM": 0.022698835624049677,
+        "positions": [
+          {
+            "decodedWorldXZ": [
+              -642.4462760990255,
+              252.7362295023802
+            ],
+            "registeredWorldXZ": [
+              -642.4324303044175,
+              252.73361455710688
+            ]
+          },
+          {
+            "decodedWorldXZ": [
+              -643.6150408877617,
+              232.71417556200623
+            ],
+            "registeredWorldXZ": [
+              -643.6399487296865,
+              232.72752803845273
+            ]
+          },
+          {
+            "decodedWorldXZ": [
+              -645.3264464712682,
+              252.48577990479387
+            ],
+            "registeredWorldXZ": [
+              -645.3199743648432,
+              252.47111055161363
+            ]
+          }
+        ]
+      },
+      "actualEye": [
+        -664,
+        177.07625000000002,
+        251
+      ],
+      "normalUnchanged": true,
+      "groupVisible": true,
+      "errors": []
+    },
+    {
+      "id": "meadows",
+      "name": "The Meadows at South Lamar",
+      "kind": "housing",
+      "eye": [
+        8,
+        25,
+        6907
+      ],
+      "look": [
+        60,
+        5,
+        6938
+      ],
+      "tile": "0_13",
+      "file": "images/meadows.jpg",
+      "focus": [
+        52,
+        6934
+      ],
+      "anchors": [
+        [
+          "-20953646864",
+          [
+            10,
+            6878.5
+          ],
+          "naip25-meadows-front-01"
+        ],
+        [
+          "-22850995937",
+          [
+            17,
+            6894.75
+          ],
+          "naip25-meadows-front-02"
+        ],
+        [
+          "-21966054231",
+          [
+            23.25,
+            6911.25
+          ],
+          "naip25-meadows-front-03"
+        ],
+        [
+          "-22193913856",
+          [
+            29.75,
+            6927
+          ],
+          "naip25-meadows-front-04"
+        ],
+        [
+          "-23721519492",
+          [
+            73.75,
+            6878.25
+          ],
+          "naip25-meadows-east-01"
+        ],
+        [
+          "-23418904787",
+          [
+            83.5,
+            6919.25
+          ],
+          "naip25-meadows-east-04"
+        ],
+        [
+          "-20586520395",
+          [
+            85.75,
+            6952
+          ],
+          "naip25-meadows-east-07"
+        ],
+        [
+          "-21088546312",
+          [
+            82.25,
+            6967.5
+          ],
+          "naip25-meadows-court-01"
+        ],
+        [
+          "-22853755567",
+          [
+            60.5,
+            6984.5
+          ],
+          "naip25-meadows-court-02"
+        ]
+      ],
+      "fov": 55,
+      "sha256": "3924c7aae9fa32621f77285f268c445a9a3b15ed595b42059860e6c6537e20bb",
+      "assetSHA256": "77a760c601e1c81eaab398d73697b39a7a4520195b24575cf16ff8c598612fd6",
+      "prim": 14,
+      "triangles": 53928,
+      "registered": true,
+      "roofMeshes": [
+        {
+          "width": 512,
+          "height": 512,
+          "flipY": false,
+          "uvs": 671,
+          "uploaded": true
+        }
+      ],
+      "uvRegistration": null,
+      "actualEye": [
+        8,
+        125.61875,
+        6907
+      ],
+      "normalUnchanged": true,
+      "groupVisible": true,
+      "errors": []
+    }
+  ],
+  "errors": [],
+  "failedRequests": [],
+  "socketErrors": [],
+  "gameSHA256": "e90c8bd7785a6e130dc7a47a88636a2ea42df14747bf490ecb78a60144ff4477",
+  "normalRestore": {
+    "player": [
+      10.060551893035536,
+      -33.639109755362036
+    ],
+    "expected": [
+      10.060551893035536,
+      -33.639109755362036
+    ],
+    "driving": true,
+    "expectedDriving": true,
+    "camera": [
+      11.659932550533547,
+      158.17340239720545,
+      -40.76174841757292
+    ],
+    "expectedCamera": [
+      11.659932550533547,
+      158.17340239720545,
+      -40.76174841757292
+    ],
+    "restored": true
+  }
+}
