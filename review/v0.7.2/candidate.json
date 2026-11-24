@@ -1,0 +1,1231 @@
+{
+  "phase": "candidate",
+  "url": "http://127.0.0.1:8879/",
+  "viewport": [
+    1280,
+    800
+  ],
+  "lighting": "Game default daylight with dusk disabled and shadows refreshed",
+  "views": [
+    {
+      "id": "lyric-street",
+      "eye": [
+        -131.3,
+        2.7,
+        62.7
+      ],
+      "look": [
+        -130.3,
+        4.85,
+        76.5
+      ],
+      "tile": "-1_0",
+      "focus": [
+        -132,
+        76
+      ],
+      "fov": 57,
+      "eyeWorld": [
+        -131.3,
+        154.924625,
+        62.7
+      ],
+      "lookWorld": [
+        -130.3,
+        157.28725,
+        76.5
+      ],
+      "normalRestored": true,
+      "tileAsset": [
+        {
+          "path": "streets/-1_0.glb",
+          "visible": true
+        },
+        {
+          "path": "precinct-additions/velvet-ditch-west-roof-arm.glb",
+          "visible": true
+        },
+        {
+          "path": "precinct-additions/velvet-ditch-east-roof-arm.glb",
+          "visible": true
+        }
+      ],
+      "registeredCount": 102
+    },
+    {
+      "id": "lyric-corner",
+      "eye": [
+        -114.2,
+        2.2,
+        62.8
+      ],
+      "look": [
+        -129.3,
+        4.4,
+        76.7
+      ],
+      "tile": "-1_0",
+      "focus": [
+        -132,
+        76
+      ],
+      "fov": 53,
+      "eyeWorld": [
+        -114.2,
+        154.80374999999998,
+        62.8
+      ],
+      "lookWorld": [
+        -129.3,
+        156.84575,
+        76.7
+      ],
+      "normalRestored": true,
+      "tileAsset": [
+        {
+          "path": "streets/-1_0.glb",
+          "visible": true
+        },
+        {
+          "path": "precinct-additions/velvet-ditch-west-roof-arm.glb",
+          "visible": true
+        },
+        {
+          "path": "precinct-additions/velvet-ditch-east-roof-arm.glb",
+          "visible": true
+        }
+      ],
+      "registeredCount": 102
+    },
+    {
+      "id": "lyric-entry",
+      "eye": [
+        -123.7,
+        1.8,
+        67.9
+      ],
+      "look": [
+        -133,
+        3.25,
+        74.1
+      ],
+      "tile": "-1_0",
+      "focus": [
+        -132,
+        76
+      ],
+      "fov": 51,
+      "eyeWorld": [
+        -123.7,
+        154.218625,
+        67.9
+      ],
+      "lookWorld": [
+        -133,
+        155.61,
+        74.1
+      ],
+      "normalRestored": true,
+      "tileAsset": [
+        {
+          "path": "streets/-1_0.glb",
+          "visible": true
+        },
+        {
+          "path": "precinct-additions/velvet-ditch-west-roof-arm.glb",
+          "visible": true
+        },
+        {
+          "path": "precinct-additions/velvet-ditch-east-roof-arm.glb",
+          "visible": true
+        }
+      ],
+      "registeredCount": 102
+    },
+    {
+      "eye": [
+        -1375,
+        4.6,
+        330
+      ],
+      "look": [
+        -1405,
+        8,
+        303
+      ],
+      "id": "duff-southeast",
+      "tile": "-3_0",
+      "focus": [
+        -1420,
+        298
+      ],
+      "fov": 59,
+      "eyeWorld": [
+        -1375,
+        148.94,
+        330
+      ],
+      "lookWorld": [
+        -1405,
+        153.67000000000002,
+        303
+      ],
+      "normalRestored": true,
+      "tileAsset": [
+        {
+          "path": "streets/-3_0.glb",
+          "visible": true
+        }
+      ],
+      "registeredCount": 22
+    },
+    {
+      "eye": [
+        -1492,
+        3.6,
+        314
+      ],
+      "look": [
+        -1468,
+        8,
+        293
+      ],
+      "id": "duff-southwest",
+      "tile": "-3_0",
+      "focus": [
+        -1420,
+        298
+      ],
+      "fov": 57,
+      "eyeWorld": [
+        -1492,
+        152.26,
+        314
+      ],
+      "lookWorld": [
+        -1468,
+        156.7925,
+        293
+      ],
+      "normalRestored": true,
+      "tileAsset": [
+        {
+          "path": "streets/-3_0.glb",
+          "visible": true
+        }
+      ],
+      "registeredCount": 22
+    },
+    {
+      "eye": [
+        -1360,
+        2.2,
+        298
+      ],
+      "look": [
+        -1381,
+        7.4,
+        282
+      ],
+      "id": "duff-east",
+      "tile": "-3_0",
+      "focus": [
+        -1420,
+        298
+      ],
+      "fov": 58,
+      "eyeWorld": [
+        -1360,
+        146.6375,
+        298
+      ],
+      "lookWorld": [
+        -1381,
+        152.17875,
+        282
+      ],
+      "normalRestored": true,
+      "tileAsset": [
+        {
+          "path": "streets/-3_0.glb",
+          "visible": true
+        }
+      ],
+      "registeredCount": 22
+    },
+    {
+      "id": "duff-entrance-treads",
+      "tile": "-3_0",
+      "focus": [
+        -1420,
+        298
+      ],
+      "fov": 57,
+      "eye": [
+        -1356.5,
+        2.7,
+        277.5
+      ],
+      "look": [
+        -1370.1,
+        3.1,
+        274
+      ],
+      "eyeWorld": [
+        -1356.5,
+        147.3425,
+        277.5
+      ],
+      "lookWorld": [
+        -1370.1,
+        147.85299999999998,
+        274
+      ],
+      "normalRestored": true,
+      "tileAsset": [
+        {
+          "path": "streets/-3_0.glb",
+          "visible": true
+        }
+      ],
+      "registeredCount": 22
+    },
+    {
+      "eye": [
+        -2155.32,
+        6.1,
+        -103.8
+      ],
+      "look": [
+        -2206.32,
+        4.7,
+        -103.8
+      ],
+      "id": "campus-rebel-data-center-north-addition",
+      "tile": "-5_-1",
+      "focus": [
+        -2206.32,
+        -103.8
+      ],
+      "fov": 54,
+      "expectedAsset": "precinct-additions/ole-miss-data-center-addition.glb",
+      "eyeWorld": [
+        -2155.32,
+        171.73965000000004,
+        -103.8
+      ],
+      "lookWorld": [
+        -2206.32,
+        168.3266,
+        -103.8
+      ],
+      "normalRestored": true,
+      "tileAsset": [
+        {
+          "path": "streets/-5_-1.glb",
+          "visible": true
+        },
+        {
+          "path": "precinct-additions/ole-miss-data-center-addition.glb",
+          "visible": true
+        }
+      ],
+      "registeredCount": 20
+    },
+    {
+      "eye": [
+        -2020.62102,
+        6.1,
+        -217.39235
+      ],
+      "look": [
+        -2013.48,
+        4.7,
+        -267.89
+      ],
+      "id": "campus-ridge-loop-northwest-mechanical-plant",
+      "tile": "-4_-1",
+      "focus": [
+        -2013.48,
+        -267.89
+      ],
+      "fov": 54,
+      "expectedAsset": "precinct-additions/ole-miss-northwest-mechanical-plant.glb",
+      "eyeWorld": [
+        -2020.62102,
+        168.69378585,
+        -217.39235
+      ],
+      "lookWorld": [
+        -2013.48,
+        164.95617499999997,
+        -267.89
+      ],
+      "normalRestored": true,
+      "tileAsset": [
+        {
+          "path": "streets/-4_-1.glb",
+          "visible": true
+        },
+        {
+          "path": "precinct-additions/ole-miss-northwest-mechanical-plant.glb",
+          "visible": true
+        }
+      ],
+      "registeredCount": 42
+    },
+    {
+      "eye": [
+        -39.379999999999995,
+        6.1,
+        281.75
+      ],
+      "look": [
+        -90.38,
+        4.7,
+        281.75
+      ],
+      "id": "square-velvet-ditch-west-roof-arm",
+      "tile": "-1_0",
+      "focus": [
+        -90.38,
+        281.75
+      ],
+      "fov": 54,
+      "expectedAsset": "precinct-additions/velvet-ditch-west-roof-arm.glb",
+      "eyeWorld": [
+        -39.379999999999995,
+        157.8028625,
+        281.75
+      ],
+      "lookWorld": [
+        -90.38,
+        156.4873375,
+        281.75
+      ],
+      "normalRestored": true,
+      "tileAsset": [
+        {
+          "path": "streets/-1_0.glb",
+          "visible": true
+        },
+        {
+          "path": "precinct-additions/velvet-ditch-west-roof-arm.glb",
+          "visible": true
+        },
+        {
+          "path": "precinct-additions/velvet-ditch-east-roof-arm.glb",
+          "visible": true
+        }
+      ],
+      "registeredCount": 102
+    },
+    {
+      "eye": [
+        -71.83,
+        6.1,
+        317.26
+      ],
+      "look": [
+        -71.83,
+        4.7,
+        266.26
+      ],
+      "id": "square-velvet-ditch-east-roof-arm",
+      "tile": "-1_0",
+      "focus": [
+        -71.83,
+        266.26
+      ],
+      "fov": 54,
+      "expectedAsset": "precinct-additions/velvet-ditch-east-roof-arm.glb",
+      "eyeWorld": [
+        -71.83,
+        158.4266125,
+        317.26
+      ],
+      "lookWorld": [
+        -71.83,
+        156.645475,
+        266.26
+      ],
+      "normalRestored": true,
+      "tileAsset": [
+        {
+          "path": "streets/-1_0.glb",
+          "visible": true
+        },
+        {
+          "path": "precinct-additions/velvet-ditch-west-roof-arm.glb",
+          "visible": true
+        },
+        {
+          "path": "precinct-additions/velvet-ditch-east-roof-arm.glb",
+          "visible": true
+        }
+      ],
+      "registeredCount": 102
+    },
+    {
+      "id": "campus-plant-oblique",
+      "tile": "-4_-1",
+      "focus": [
+        -2013.48,
+        -267.89
+      ],
+      "fov": 55,
+      "eye": [
+        -2054,
+        27,
+        -225
+      ],
+      "look": [
+        -2012,
+        5,
+        -267
+      ],
+      "expectedAsset": "precinct-additions/ole-miss-northwest-mechanical-plant.glb",
+      "eyeWorld": [
+        -2054,
+        189.33125,
+        -225
+      ],
+      "lookWorld": [
+        -2012,
+        165.29500000000002,
+        -267
+      ],
+      "normalRestored": true,
+      "tileAsset": [
+        {
+          "path": "streets/-4_-1.glb",
+          "visible": true
+        },
+        {
+          "path": "precinct-additions/ole-miss-northwest-mechanical-plant.glb",
+          "visible": true
+        }
+      ],
+      "registeredCount": 42
+    },
+    {
+      "id": "velvet-ditch-courtyard",
+      "tile": "-1_0",
+      "focus": [
+        -82,
+        278
+      ],
+      "fov": 56,
+      "eye": [
+        -67,
+        20,
+        300
+      ],
+      "look": [
+        -83,
+        2,
+        273
+      ],
+      "expectedAsset": "precinct-additions/velvet-ditch-west-roof-arm.glb",
+      "secondAsset": "precinct-additions/velvet-ditch-east-roof-arm.glb",
+      "eyeWorld": [
+        -67,
+        172.03875,
+        300
+      ],
+      "lookWorld": [
+        -83,
+        153.91875000000002,
+        273
+      ],
+      "normalRestored": true,
+      "tileAsset": [
+        {
+          "path": "streets/-1_0.glb",
+          "visible": true
+        },
+        {
+          "path": "precinct-additions/velvet-ditch-west-roof-arm.glb",
+          "visible": true
+        },
+        {
+          "path": "precinct-additions/velvet-ditch-east-roof-arm.glb",
+          "visible": true
+        }
+      ],
+      "registeredCount": 102
+    }
+  ],
+  "campus": [
+    {
+      "id": "campus-rebel-data-center-north-addition",
+      "name": "Ole Miss Data Center — North Addition",
+      "tile": "-5_-1",
+      "parts": [
+        {
+          "part": "North addition",
+          "ring": [
+            [
+              -2232.5,
+              -93.75
+            ],
+            [
+              -2179.25,
+              -88.75
+            ],
+            [
+              -2177.5,
+              -121.75
+            ],
+            [
+              -2229.75,
+              -126.25
+            ]
+          ],
+          "index": 18,
+          "fallbackId": -33472749841,
+          "registered": true,
+          "fallbackGroupVisible": null,
+          "blockAsset": [
+            {
+              "path": "streets/-5_-1.glb",
+              "visible": true
+            },
+            {
+              "path": "precinct-additions/ole-miss-data-center-addition.glb",
+              "visible": true
+            }
+          ],
+          "solidIndex": 18,
+          "solidId": -33472749841,
+          "obstacleBounds": [
+            -2232.5,
+            -126.25,
+            -2177.5,
+            -88.75
+          ],
+          "treeAnchorsInside": [],
+          "probeXZ": [
+            -2204.75,
+            -107.625
+          ],
+          "walkingObstructed": true,
+          "walkingProbes": [
+            {
+              "xz": [
+                -2204.75,
+                -107.625
+              ],
+              "obstructed": true
+            },
+            {
+              "xz": [
+                -2214.74,
+                -102.63
+              ],
+              "obstructed": true
+            },
+            {
+              "xz": [
+                -2195.57,
+                -100.83
+              ],
+              "obstructed": true
+            },
+            {
+              "xz": [
+                -2194.94,
+                -112.71
+              ],
+              "obstructed": true
+            },
+            {
+              "xz": [
+                -2213.75,
+                -114.33
+              ],
+              "obstructed": true
+            }
+          ],
+          "vehicleContactForId": true
+        },
+        {
+          "part": "Low connection to original wing",
+          "ring": [
+            [
+              -2230.25,
+              -81.25
+            ],
+            [
+              -2198.75,
+              -79
+            ],
+            [
+              -2198.015,
+              -90.512
+            ],
+            [
+              -2228.274,
+              -93.353
+            ]
+          ],
+          "index": 19,
+          "fallbackId": -31357585506,
+          "registered": true,
+          "fallbackGroupVisible": null,
+          "blockAsset": [
+            {
+              "path": "streets/-5_-1.glb",
+              "visible": true
+            },
+            {
+              "path": "precinct-additions/ole-miss-data-center-addition.glb",
+              "visible": true
+            }
+          ],
+          "solidIndex": 19,
+          "solidId": -31357585506,
+          "obstacleBounds": [
+            -2230.25,
+            -93.353,
+            -2198.015,
+            -79
+          ],
+          "treeAnchorsInside": [],
+          "probeXZ": [
+            -2213.8222499999997,
+            -86.02875
+          ],
+          "walkingObstructed": true,
+          "walkingProbes": [
+            {
+              "xz": [
+                -2213.8222499999997,
+                -86.02875
+              ],
+              "obstructed": true
+            },
+            {
+              "xz": [
+                -2219.7362399999997,
+                -84.3084
+              ],
+              "obstructed": true
+            },
+            {
+              "xz": [
+                -2208.39624,
+                -83.4984
+              ],
+              "obstructed": true
+            },
+            {
+              "xz": [
+                -2208.1316399999996,
+                -87.64272
+              ],
+              "obstructed": true
+            },
+            {
+              "xz": [
+                -2219.02488,
+                -88.66548
+              ],
+              "obstructed": true
+            }
+          ],
+          "vehicleContactForId": true
+        }
+      ]
+    },
+    {
+      "id": "campus-ridge-loop-northwest-mechanical-plant",
+      "name": "Ole Miss Northwest Mechanical Plant",
+      "tile": "-4_-1",
+      "parts": [
+        {
+          "part": "Plant envelope",
+          "ring": [
+            [
+              -2048.25,
+              -261.75
+            ],
+            [
+              -1981.75,
+              -252.5
+            ],
+            [
+              -1978.5,
+              -274
+            ],
+            [
+              -2045.5,
+              -283.25
+            ]
+          ],
+          "index": 41,
+          "fallbackId": -32320798229,
+          "registered": true,
+          "fallbackGroupVisible": null,
+          "blockAsset": [
+            {
+              "path": "streets/-4_-1.glb",
+              "visible": true
+            },
+            {
+              "path": "precinct-additions/ole-miss-northwest-mechanical-plant.glb",
+              "visible": true
+            }
+          ],
+          "solidIndex": 41,
+          "solidId": -32320798229,
+          "obstacleBounds": [
+            -2048.25,
+            -283.25,
+            -1978.5,
+            -252.5
+          ],
+          "treeAnchorsInside": [],
+          "probeXZ": [
+            -2013.5,
+            -267.875
+          ],
+          "walkingObstructed": true,
+          "walkingProbes": [
+            {
+              "xz": [
+                -2013.5,
+                -267.875
+              ],
+              "obstructed": true
+            },
+            {
+              "xz": [
+                -2026.01,
+                -265.67
+              ],
+              "obstructed": true
+            },
+            {
+              "xz": [
+                -2002.07,
+                -262.34
+              ],
+              "obstructed": true
+            },
+            {
+              "xz": [
+                -2000.9,
+                -270.08
+              ],
+              "obstructed": true
+            },
+            {
+              "xz": [
+                -2025.02,
+                -273.41
+              ],
+              "obstructed": true
+            }
+          ],
+          "vehicleContactForId": true
+        }
+      ]
+    }
+  ],
+  "patio": [
+    {
+      "id": "square-velvet-ditch-west-roof-arm",
+      "name": "The Velvet Ditch — west roofed strip",
+      "tile": "-1_0",
+      "parts": [
+        {
+          "part": "west roofed strip",
+          "ring": [
+            [
+              -93.5,
+              287
+            ],
+            [
+              -89,
+              288
+            ],
+            [
+              -87.25,
+              276.5
+            ],
+            [
+              -91.75,
+              275.5
+            ]
+          ],
+          "index": 168,
+          "fallbackId": -31257175222,
+          "registered": true,
+          "fallbackGroupVisible": null,
+          "blockAsset": [
+            {
+              "path": "streets/-1_0.glb",
+              "visible": true
+            },
+            {
+              "path": "precinct-additions/velvet-ditch-west-roof-arm.glb",
+              "visible": true
+            },
+            {
+              "path": "precinct-additions/velvet-ditch-east-roof-arm.glb",
+              "visible": true
+            }
+          ],
+          "solidIndex": -1,
+          "solidId": null,
+          "obstacleBounds": null,
+          "treeAnchorsInside": [],
+          "probeXZ": [
+            -90.375,
+            281.75
+          ],
+          "walkingObstructed": false,
+          "walkingProbes": [
+            {
+              "xz": [
+                -90.375,
+                281.75
+              ],
+              "obstructed": false
+            },
+            {
+              "xz": [
+                -91.5,
+                283.64
+              ],
+              "obstructed": false
+            },
+            {
+              "xz": [
+                -89.88,
+                284
+              ],
+              "obstructed": false
+            },
+            {
+              "xz": [
+                -89.25,
+                279.86
+              ],
+              "obstructed": false
+            },
+            {
+              "xz": [
+                -90.87,
+                279.5
+              ],
+              "obstructed": false
+            }
+          ],
+          "vehicleContactForId": false
+        }
+      ]
+    },
+    {
+      "id": "square-velvet-ditch-east-roof-arm",
+      "name": "The Velvet Ditch — east covered patio arm",
+      "tile": "-1_0",
+      "parts": [
+        {
+          "part": "east covered patio arm",
+          "ring": [
+            [
+              -69.25,
+              270.25
+            ],
+            [
+              -68,
+              263.5
+            ],
+            [
+              -74.37,
+              262.188
+            ],
+            [
+              -75.629,
+              269.124
+            ]
+          ],
+          "index": 169,
+          "fallbackId": -31419227435,
+          "registered": true,
+          "fallbackGroupVisible": null,
+          "blockAsset": [
+            {
+              "path": "streets/-1_0.glb",
+              "visible": true
+            },
+            {
+              "path": "precinct-additions/velvet-ditch-west-roof-arm.glb",
+              "visible": true
+            },
+            {
+              "path": "precinct-additions/velvet-ditch-east-roof-arm.glb",
+              "visible": true
+            }
+          ],
+          "solidIndex": -1,
+          "solidId": null,
+          "obstacleBounds": null,
+          "treeAnchorsInside": [],
+          "probeXZ": [
+            -71.81225,
+            266.2655
+          ],
+          "walkingObstructed": false,
+          "walkingProbes": [
+            {
+              "xz": [
+                -71.81225,
+                266.2655
+              ],
+              "obstructed": false
+            },
+            {
+              "xz": [
+                -70.88984,
+                267.69991999999996
+              ],
+              "obstructed": false
+            },
+            {
+              "xz": [
+                -70.43984,
+                265.26991999999996
+              ],
+              "obstructed": false
+            },
+            {
+              "xz": [
+                -72.73304,
+                264.7976
+              ],
+              "obstructed": false
+            },
+            {
+              "xz": [
+                -73.18628000000001,
+                267.29456
+              ],
+              "obstructed": false
+            }
+          ],
+          "vehicleContactForId": false
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "url": "http://127.0.0.1:8879/data/stream/courier.glb",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8879/data/blender/neilsons.glb",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8879/data/blender/courthouse.glb",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8879/data/blender/square-books.glb",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8879/data/blender/streets/-1_0.glb",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8879/data/blender/precinct-additions/velvet-ditch-west-roof-arm.glb",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8879/data/blender/precinct-additions/velvet-ditch-east-roof-arm.glb",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8879/data/blender/streets/-1_-1.glb",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8879/data/blender/schools/oxford-intermediate.glb",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8879/data/blender/lyceum.glb",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8879/data/blender/grove-pavilion.glb",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8879/data/blender/stadium.glb",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8879/data/blender/barnard.glb",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8879/data/blender/ventress.glb",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8879/data/blender/streets/-3_0.glb",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8879/data/blender/paris-yates.glb",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8879/data/blender/streets/-5_-1.glb",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8879/data/blender/precinct-additions/ole-miss-data-center-addition.glb",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8879/data/blender/streets/-4_-1.glb",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8879/data/blender/precinct-additions/ole-miss-northwest-mechanical-plant.glb",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8879/data/blender/streets/-4_0.glb",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8879/data/blender/neilsons.glb",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8879/data/blender/square-books.glb",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8879/data/blender/courthouse.glb",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8879/data/blender/streets/-1_0.glb",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8879/data/blender/precinct-additions/velvet-ditch-west-roof-arm.glb",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8879/data/blender/precinct-additions/velvet-ditch-east-roof-arm.glb",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8879/data/blender/paris-yates.glb",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8879/data/blender/streets/-4_-1.glb",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8879/data/blender/precinct-additions/ole-miss-northwest-mechanical-plant.glb",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8879/data/blender/neilsons.glb",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8879/data/blender/courthouse.glb",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8879/data/blender/square-books.glb",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8879/data/blender/streets/-1_0.glb",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8879/data/blender/precinct-additions/velvet-ditch-west-roof-arm.glb",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8879/data/blender/precinct-additions/velvet-ditch-east-roof-arm.glb",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8879/data/blender/streets/-1_-1.glb",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8879/data/blender/paris-yates.glb",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8879/data/blender/streets/-5_-1.glb",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8879/data/blender/precinct-additions/ole-miss-data-center-addition.glb",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8879/data/blender/streets/-5_-2.glb",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8879/data/blender/streets/-5_0.glb",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8879/data/blender/streets/-4_-1.glb",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8879/data/blender/precinct-additions/ole-miss-northwest-mechanical-plant.glb",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8879/data/blender/neilsons.glb",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8879/data/blender/square-books.glb",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8879/data/blender/courthouse.glb",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8879/data/blender/streets/-1_0.glb",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8879/data/blender/precinct-additions/velvet-ditch-west-roof-arm.glb",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8879/data/blender/precinct-additions/velvet-ditch-east-roof-arm.glb",
+      "status": 200
+    }
+  ],
+  "console": [],
+  "responses": [],
+  "failedRequests": [],
+  "gameSHA256": "eed5dc11debc86b2fe7165f9d145f8c1353feec0b1f527c8ff871b07f238183b",
+  "browser": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/158.0.0.0 Safari/537.36"
+}

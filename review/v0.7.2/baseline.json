@@ -1,0 +1,293 @@
+{
+  "phase": "baseline",
+  "url": "https://abrynild90.github.io/oxford-courier-web/v0.7.1/",
+  "viewport": [
+    1280,
+    800
+  ],
+  "lighting": "Game default daylight with dusk disabled and shadows refreshed",
+  "views": [
+    {
+      "id": "lyric-street",
+      "eye": [
+        -131.3,
+        2.7,
+        62.7
+      ],
+      "look": [
+        -130.3,
+        4.85,
+        76.5
+      ],
+      "tile": "-1_0",
+      "focus": [
+        -132,
+        76
+      ],
+      "fov": 57,
+      "eyeWorld": [
+        -131.3,
+        154.924625,
+        62.7
+      ],
+      "lookWorld": [
+        -130.3,
+        157.28725,
+        76.5
+      ],
+      "normalRestored": true,
+      "tileAsset": [
+        {
+          "path": "streets/-1_0.glb",
+          "visible": true
+        }
+      ],
+      "registeredCount": 100
+    },
+    {
+      "id": "lyric-corner",
+      "eye": [
+        -114.2,
+        2.2,
+        62.8
+      ],
+      "look": [
+        -129.3,
+        4.4,
+        76.7
+      ],
+      "tile": "-1_0",
+      "focus": [
+        -132,
+        76
+      ],
+      "fov": 53,
+      "eyeWorld": [
+        -114.2,
+        154.80374999999998,
+        62.8
+      ],
+      "lookWorld": [
+        -129.3,
+        156.84575,
+        76.7
+      ],
+      "normalRestored": true,
+      "tileAsset": [
+        {
+          "path": "streets/-1_0.glb",
+          "visible": true
+        }
+      ],
+      "registeredCount": 100
+    },
+    {
+      "id": "lyric-entry",
+      "eye": [
+        -123.7,
+        1.8,
+        67.9
+      ],
+      "look": [
+        -133,
+        3.25,
+        74.1
+      ],
+      "tile": "-1_0",
+      "focus": [
+        -132,
+        76
+      ],
+      "fov": 51,
+      "eyeWorld": [
+        -123.7,
+        154.218625,
+        67.9
+      ],
+      "lookWorld": [
+        -133,
+        155.61,
+        74.1
+      ],
+      "normalRestored": true,
+      "tileAsset": [
+        {
+          "path": "streets/-1_0.glb",
+          "visible": true
+        }
+      ],
+      "registeredCount": 100
+    },
+    {
+      "eye": [
+        -1375,
+        4.6,
+        330
+      ],
+      "look": [
+        -1405,
+        8,
+        303
+      ],
+      "id": "duff-southeast",
+      "tile": "-3_0",
+      "focus": [
+        -1420,
+        298
+      ],
+      "fov": 59,
+      "eyeWorld": [
+        -1375,
+        148.94,
+        330
+      ],
+      "lookWorld": [
+        -1405,
+        153.67000000000002,
+        303
+      ],
+      "normalRestored": true,
+      "tileAsset": [
+        {
+          "path": "streets/-3_0.glb",
+          "visible": true
+        }
+      ],
+      "registeredCount": 22
+    },
+    {
+      "eye": [
+        -1492,
+        3.6,
+        314
+      ],
+      "look": [
+        -1468,
+        8,
+        293
+      ],
+      "id": "duff-southwest",
+      "tile": "-3_0",
+      "focus": [
+        -1420,
+        298
+      ],
+      "fov": 57,
+      "eyeWorld": [
+        -1492,
+        152.26,
+        314
+      ],
+      "lookWorld": [
+        -1468,
+        156.7925,
+        293
+      ],
+      "normalRestored": true,
+      "tileAsset": [
+        {
+          "path": "streets/-3_0.glb",
+          "visible": true
+        }
+      ],
+      "registeredCount": 22
+    },
+    {
+      "eye": [
+        -1360,
+        2.2,
+        298
+      ],
+      "look": [
+        -1381,
+        7.4,
+        282
+      ],
+      "id": "duff-east",
+      "tile": "-3_0",
+      "focus": [
+        -1420,
+        298
+      ],
+      "fov": 58,
+      "eyeWorld": [
+        -1360,
+        146.6375,
+        298
+      ],
+      "lookWorld": [
+        -1381,
+        152.17875,
+        282
+      ],
+      "normalRestored": true,
+      "tileAsset": [
+        {
+          "path": "streets/-3_0.glb",
+          "visible": true
+        }
+      ],
+      "registeredCount": 22
+    }
+  ],
+  "campus": [],
+  "assets": [
+    {
+      "url": "https://abrynild90.github.io/oxford-courier-web/v0.7.1/data/blender/neilsons.glb",
+      "status": 200
+    },
+    {
+      "url": "https://abrynild90.github.io/oxford-courier-web/v0.7.1/data/blender/courthouse.glb",
+      "status": 200
+    },
+    {
+      "url": "https://abrynild90.github.io/oxford-courier-web/v0.7.1/data/blender/square-books.glb",
+      "status": 200
+    },
+    {
+      "url": "https://abrynild90.github.io/oxford-courier-web/v0.7.1/data/stream/courier.glb",
+      "status": 200
+    },
+    {
+      "url": "https://abrynild90.github.io/oxford-courier-web/v0.7.1/data/blender/streets/-1_0.glb",
+      "status": 200
+    },
+    {
+      "url": "https://abrynild90.github.io/oxford-courier-web/v0.7.1/data/blender/streets/-1_-1.glb",
+      "status": 200
+    },
+    {
+      "url": "https://abrynild90.github.io/oxford-courier-web/v0.7.1/data/blender/barnard.glb",
+      "status": 200
+    },
+    {
+      "url": "https://abrynild90.github.io/oxford-courier-web/v0.7.1/data/blender/stadium.glb",
+      "status": 200
+    },
+    {
+      "url": "https://abrynild90.github.io/oxford-courier-web/v0.7.1/data/blender/ventress.glb",
+      "status": 200
+    },
+    {
+      "url": "https://abrynild90.github.io/oxford-courier-web/v0.7.1/data/blender/lyceum.glb",
+      "status": 200
+    },
+    {
+      "url": "https://abrynild90.github.io/oxford-courier-web/v0.7.1/data/blender/schools/oxford-intermediate.glb",
+      "status": 200
+    },
+    {
+      "url": "https://abrynild90.github.io/oxford-courier-web/v0.7.1/data/blender/grove-pavilion.glb",
+      "status": 200
+    },
+    {
+      "url": "https://abrynild90.github.io/oxford-courier-web/v0.7.1/data/blender/streets/-3_0.glb",
+      "status": 200
+    }
+  ],
+  "console": [],
+  "responses": [],
+  "failedRequests": [],
+  "gameSHA256": "e90c8bd7785a6e130dc7a47a88636a2ea42df14747bf490ecb78a60144ff4477",
+  "browser": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/158.0.0.0 Safari/537.36"
+}
